@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/vocabulary"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/hafal"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/gram"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/tens"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/latih1"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/latih2"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/uji"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/prckpn"
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/game"
+        android:state_pressed="true"/>
+</selector>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_name">
+        <item> Pronoun </item>
+        <item> Noun </item>
+        <item> Verb </item>
+        <item> Adjective </item>
+        <item> Adverb </item>
+        <item> Preposition </item>
+        <item> Conjunction </item>
+        <item> Interjection </item>
+        <item> Fruit Name </item>
+        <item> Animal Name </item>
+        <item> Profession </item>
+        <item> Ly and Less </item>
+        <item> Number </item>
+        <item> Weather </item>
+        <item> Part of body </item>
+        <item> Color Name </item>
+    </string-array>
+    <string-array name="items_description">
+        <item> Kata Ganti </item>
+        <item> Kata Benda </item>
+        <item> Kata Kerja </item>
+        <item> Kata Sifat </item>
+        <item> Kata Keterangan </item>
+        <item> Kata Depan </item>
+        <item> Kata Hubung </item>
+        <item> Kata Seru </item>
+        <item> Nama-nama Buah </item>
+        <item> Nama-nama Hewan </item>
+        <item> Jenis Pekerjaan </item>
+        <item> Kata berakhiran ly dan less </item>
+        <item> Nomor </item>
+        <item> Jenis Cuaca </item>
+        <item> Bagian-bagian tubuh </item>
+        <item> Nama-nama warna </item>
+    </string-array>
+    <string-array name="items_name1">
+        <item> Hafalan 1 </item>
+        <item> Hafalan 2 </item>
+        <item> Hafalan 3 </item>
+        <item> Hafalan 4 </item>
+        <item> Hafalan 5 </item>
+        <item> Hafalan 6 </item>
+        <item> Hafalan 7 </item>
+        <item> Hafalan 8 </item>
+        <item> Hafalan 9 </item>
+        <item> Hafalan 10 </item>
+        <item> Hafalan 11 </item>
+        <item> Hafalan 12 </item>
+        <item> Hafalan 13 </item>
+        <item> Hafalan 14 </item>
+        <item> Hafalan 15 </item>
+        <item> Hafalan 16 </item>
+        <item> Hafalan 17 </item>
+        <item> Hafalan 18 </item>
+        <item> Hafalan 19 </item>
+        <item> Hafalan 20 </item>
+        <item> Hafalan 21 </item>
+        <item> Hafalan 22 </item>
+        <item> Hafalan 23 </item>
+        <item> Hafalan 24 </item>
+        <item> Hafalan 25 </item>
+        <item> Hafalan 26 </item>
+        <item> Hafalan 27 </item>
+        <item> Hafalan 28 </item>
+        <item> Hafalan 29 </item>
+        <item> Hafalan 30 </item>
+        <item> Hafalan 31 </item>
+        <item> Hafalan 32 </item>
+    </string-array>
+    <string-array name="items_description1">
+        <item> Kata dan kalimat yang bisa digunakan untuk memberi salam  </item>
+        <item> Kata dan kalimat untuk memberikan penghargaan/pujian </item>
+        <item> Kiat-kiat untuk tetap tenang </item>
+        <item> Kalimat yang digunakan untuk mendukung seseorang </item>
+        <item> Kalimat yang digunakan untuk meminta orang lain menunggu </item>
+        <item> Kalimat yang sering dilontarkan seseorang ketika marah </item>
+        <item> Cara untuk meminta maaf dalam bahasa inggris </item>
+        <item> Cara lain untuk mengatakan I know, I understand </item>
+        <item> Cara lain untuk mengatakan yes </item>
+        <item> Kalimat ungkapan yang berguna untuk memberikan semangat </item>
+        <item> Cara lain untuk mengatakan Bye </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+        <item> Belajar Bahasa Inggris </item>
+    </string-array>
+    <string-array name="items_name2">
+        <item> Pronoun </item>
+        <item> Noun </item>
+        <item> Articles </item>
+        <item> Plural and Singular Noun </item>
+        <item> Countable and Countable Noun </item>
+        <item> Adjectives </item>
+        <item> Has and Have </item>
+        <item> Demonstrative </item>
+        <item> This and These </item>
+        <item> That and Those </item>
+        <item> There Is </item>
+        <item> Noun Phrase </item>
+        <item> Quantifier </item>
+        <item> Some And Any </item>
+        <item> Much and Many </item>
+        <item> A Little </item>
+        <item> Adverbs </item>
+        <item> Verb </item>
+        <item> Auxiliary Verbs (Can and Could) </item>
+        <item> Prepositions </item>
+        <item> Conjunctions </item>
+        <item> Interjections </item>
+        <item> Passive Voice </item>
+        <item> Question Tag </item>
+        <item> Degree Of Comparison </item>
+        <item> Direct and Inderect </item>
+        <item> Preferences </item>
+        <item> Exclamatory </item>
+        <item> Determiners </item>
+        <item> Conditional Sentences </item>
+    </string-array>
+    <string-array name="items_description2">
+        <item> Grammar Bahasa Inggris  </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+        <item> Grammar Bahasa Inggris </item>
+    </string-array>
+    <string-array name="items_name3">
+        <item> Simple Present </item>
+        <item> Present Continous </item>
+        <item> Present Perfect </item>
+        <item> Present Perfect Continous </item>
+        <item> Simple Past </item>
+        <item> Past Continous </item>
+        <item> Past Perfect</item>
+        <item> Past Perfect Continous </item>
+        <item> Simple Future </item>
+        <item> Future Continous </item>
+        <item> Future Perfect </item>
+        <item> Future Perfect Continous </item>
+        <item> Past Future </item>
+        <item> Past Future Continous </item>
+        <item> Past Future Perfect </item>
+        <item> Past Future Perfect Continous </item>
+    </string-array>
+    <string-array name="items_description3">
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+        <item> Belajar Tenses </item>
+    </string-array>
+</resources>

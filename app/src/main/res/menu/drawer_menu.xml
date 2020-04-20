@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/kosakata"
+            android:icon="@drawable/kosakata"
+            android:title="Kosakata"
+            app:showAsAction="ifRoom" />
+        <item android:id="@+id/hafalan"
+            android:icon="@drawable/hafalan"
+            android:title="Hafalan"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/grammar"
+            android:icon="@drawable/grammar"
+            android:title="Grammar"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/tenses"
+            android:icon="@drawable/tenses"
+            android:title="Tenses"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/latihan1"
+            android:icon="@drawable/latihan"
+            android:title="Latihan I"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/latihan2"
+            android:icon="@drawable/latihan2"
+            android:title="Latihan II"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/ujian"
+            android:icon="@drawable/ujian"
+            android:title="Ujian"
+            app:showAsAction="ifRoom"/>
+        <item android:id="@+id/percakapan"
+            android:icon="@drawable/percakapan"
+            android:title="Percakapan"
+            app:showAsAction="ifRoom"/>
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/share"
+                android:icon="@drawable/ic_device_hub_black_24dp"
+                android:title="Share"
+                app:showAsAction="ifRoom"/>
+            <item android:id="@+id/send"
+                android:icon="@drawable/ic_send_black_24dp"
+                android:title="Send"
+                app:showAsAction="ifRoom"/>
+        </menu>
+    </item>
+</menu>
