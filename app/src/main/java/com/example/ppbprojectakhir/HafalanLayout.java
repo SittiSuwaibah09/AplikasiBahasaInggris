@@ -92,7 +92,70 @@ public class HafalanLayout extends AppCompatActivity {
                     Intent intent = new Intent(HafalanLayout.this, Hafalan16.class);
                     startActivity(intent);
                 }
-
+                if (position == 16) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan17.class);
+                    startActivity(intent);
+                }
+                if (position == 17) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan18.class);
+                    startActivity(intent);
+                }
+                if (position == 18) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan19.class);
+                    startActivity(intent);
+                }
+                if (position == 19) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan20.class);
+                    startActivity(intent);
+                }
+                if (position == 20) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan21.class);
+                    startActivity(intent);
+                }
+                if (position == 21) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan22.class);
+                    startActivity(intent);
+                }
+                if (position == 22) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan23.class);
+                    startActivity(intent);
+                }
+                if (position == 23) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan24.class);
+                    startActivity(intent);
+                }
+                if (position == 24) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan25.class);
+                    startActivity(intent);
+                }
+                if (position == 25) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan26.class);
+                    startActivity(intent);
+                }
+                if (position == 26) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan27.class);
+                    startActivity(intent);
+                }
+                if (position == 27) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan28.class);
+                    startActivity(intent);
+                }
+                if (position == 28) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan29.class);
+                    startActivity(intent);
+                }
+                if (position == 29) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan30.class);
+                    startActivity(intent);
+                }
+                if (position == 30) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan31.class);
+                    startActivity(intent);
+                }
+                if (position == 31) {
+                    Intent intent = new Intent(HafalanLayout.this, Hafalan32.class);
+                    startActivity(intent);
+                }
             }
         });
     }

@@ -16,6 +16,134 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".Hafalan32"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan31"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan30"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan29"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan28"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan27"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan26"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan25"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan24"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan23"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan22"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan21"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan20"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan19"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan18"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
+            android:name=".Hafalan17"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".HafalanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HafalanLayout" />
+        </activity>
+        <activity
             android:name=".Hafalan16"
             android:label="Bahasa Inggris"
             android:parentActivityName=".HafalanLayout">

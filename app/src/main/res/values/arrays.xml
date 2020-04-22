@@ -2573,13 +2573,13 @@
         <item> Coba aja dulu </item>
         <item> Ayo kerjakan </item>
         <item> Apa yang anda tunggu </item>
-        <item> Lanjutkan </item>
         <item> Lakukan saja </item>
+        <item> Lanjutkan </item>
         <item> Kerja yang bagus </item>
         <item> Saya sangat bangga dengan anda </item>
         <item> Teruslah berjuang </item>
         <item> Ayolah! Anda dapat melakukannya! </item>
-        <item> Jangan mneyerah </item>
+        <item> Jangan menyerah </item>
     </string-array>
     <string-array name="name_hafal16">
         <item> What a pity ! </item>
@@ -2891,21 +2891,21 @@
         <item> It was my fault </item>
         <item> I want to be a teacher </item>
         <item> You are not alone </item>
-        <item> Let is go together! </item>
+        <item> Let is go together ! </item>
         <item> Let me know it </item>
         <item> I need your help </item>
         <item> Iam here </item>
-        <item> Watch out! </item>
+        <item> Watch out ! </item>
         <item> Come back to yout room </item>
-        <item> Do not be afraid! </item>
+        <item> Do not be afraid ! </item>
         <item> Dare to speak </item>
         <item> Stealing is bad attitude </item>
-        <item> Who take my money? </item>
+        <item> Who take my money ? </item>
         <item> I do not know at all </item>
         <item> Do not lie to me </item>
         <item> Please forgive me </item>
         <item> She is not here </item>
-        <item> What time is it? </item>
+        <item> What time is it ? </item>
         <item> It is 10 oclock </item>
         <item> The homework is so difficult </item>
     </string-array>
@@ -2917,73 +2917,73 @@
         <item> Biarkan/izinkan aku mengetahuinya </item>
         <item> Saya membutuhkan bantuanmu </item>
         <item> Saya disini </item>
-        <item> Awas! </item>
+        <item> Awas ! </item>
         <item> Kembalilah ke kamarmu </item>
         <item> Jangan takut </item>
         <item> Beranilah berbicara </item>
         <item> Mencuri adalah kebiasaan buruk </item>
-        <item> Siapa yang mengambil uang saya </item>
+        <item> Siapa yang mengambil uang saya ? </item>
         <item> Saya tidak tahu sama sekali </item>
         <item> Jangan bohong sama saya </item>
-        <item> Maafin saya ya! </item>
+        <item> Maafkan saya ya ! </item>
         <item> Dia tidak disini </item>
-        <item> Sekarang jam berapa? </item>
+        <item> Sekarang jam berapa ? </item>
         <item> Sekarang jam 10 </item>
         <item> PR nya susah banget </item>
     </string-array>
     <string-array name="name_hafal24">
-        <item> Will ypu be my friend? </item>
+        <item> Will you be my friend ? </item>
         <item> I miss my parent at home </item>
         <item> There is no one here </item>
-        <item> Is it yours? </item>
-        <item> Donot be late! </item>
+        <item> Is it yours ? </item>
+        <item> Donot be late ! </item>
         <item> I hate You </item>
         <item> Iam happy you are here </item>
         <item> God always listen and understand you </item>
         <item> She is like her mother </item>
-        <item> What is wrong with you? </item>
+        <item> What is wrong with you ? </item>
         <item> Do not forget me </item>
         <item> Just kidding </item>
         <item> Wherever you go </item>
-        <item> What day is today? </item>
-        <item> Do you still remember? </item>
+        <item> What day is today ? </item>
+        <item> Do you still remember ? </item>
         <item> Tell me the truth </item>
-        <item> Be careful! </item>
-        <item> Move a bit please! </item>
+        <item> Be careful ! </item>
+        <item> Move a bit please ! </item>
         <item> Life is a gift </item>
-        <item> Anybody home? </item>
+        <item> Anybody home ? </item>
     </string-array>
     <string-array name="description_hafal24">
-        <item> Kamu mau jadi teman saya gak? </item>
+        <item> Kamu mau jadi teman saya gak ? </item>
         <item> Saya kangen orang tua dirumah </item>
         <item> Gak ada siapa-siapa disini </item>
-        <item> Apakah ini punya kamu? </item>
-        <item> Jangan telat ya! </item>
+        <item> Apakah ini punya kamu ? </item>
+        <item> Jangan telat ya ! </item>
         <item> Saya benci kamu </item>
         <item> Saya senang kamu disini </item>
         <item> Allah SWT selalu mendengar dan mengerti kamu </item>
         <item> Dia seperti ibunya </item>
-        <item> Ada apa denganmu? </item>
+        <item> Ada apa denganmu ? </item>
         <item> Jangan lupakan saya </item>
         <item> Cuma bercanda </item>
         <item> Kemanapun kamu pergi </item>
-        <item> Sekarang hari apa sih? </item>
-        <item> Apa kamu masih ingat? </item>
+        <item> Sekarang hari apa sih ? </item>
+        <item> Apa kamu masih ingat ? </item>
         <item> Jujurlah padaku/katakan yang sebenarnya </item>
-        <item> Hati hati ya! </item>
+        <item> Hati hati ya ! </item>
         <item> Tolong geser sedikit </item>
-        <item> Hidup adalah anugrah </item>
-        <item> Asa orang dirumah? </item>
+        <item> Hidup adalah anugerah </item>
+        <item> Apa ada orang dirumah ? </item>
     </string-array>
     <string-array name="name_hafal25">
         <item> Nice to meet you </item>
-        <item> Come on! </item>
+        <item> Come on ! </item>
         <item> Wait a minute </item>
         <item> Break a leg </item>
         <item> Good luck </item>
-        <item> Cheer up! </item>
-        <item> Chill out! </item>
-        <item> Cut it out! </item>
+        <item> Cheer up ! </item>
+        <item> Chill out ! </item>
+        <item> Cut it out ! </item>
         <item> See you later </item>
         <item> Catch you later </item>
     </string-array>
@@ -2993,34 +2993,34 @@
         <item> Tunggu sebentar </item>
         <item> Semoga sukses </item>
         <item> Semoga sukses </item>
-        <item> Semangat! </item>
-        <item> Santai saja! </item>
-        <item> Hentikanlah! </item>
+        <item> Semangat ! </item>
+        <item> Santai saja ! </item>
+        <item> Hentikanlah ! </item>
         <item> Sampai jumpa </item>
         <item> Sampai jumpa </item>
     </string-array>
     <string-array name="name_hafal26">
         <item> On fire </item>
         <item> Absolutely </item>
-        <item> Any questions? </item>
+        <item> Any questions ? </item>
         <item> By the way </item>
         <item> For your information </item>
         <item> Keep calm </item>
-        <item> Go ahead! </item>
+        <item> Go ahead ! </item>
         <item> Let it be </item>
-        <item> Keep going! </item>
+        <item> Keep going ! </item>
         <item> Sleep tight </item>
     </string-array>
     <string-array name="description_hafal26">
         <item> Semangat </item>
         <item> Benar </item>
-        <item> Ada pertanyaan? </item>
+        <item> Ada pertanyaan ? </item>
         <item> Ngomong-ngomong </item>
         <item> Sebagai informasi </item>
         <item> Tetap tenang </item>
-        <item> Lanjutkan! </item>
-        <item> Biarlah! </item>
-        <item> Teruskan! </item>
+        <item> Lanjutkan ! </item>
+        <item> Biarlah ! </item>
+        <item> Teruskan ! </item>
         <item> Tidur yang nyenyak </item>
     </string-array>
     <string-array name="name_hafal27">
@@ -3031,7 +3031,7 @@
         <item> Have a good time </item>
         <item> Have a nice day </item>
         <item> Happy weekend </item>
-        <item> Hold on, please! </item>
+        <item> Hold on, please ! </item>
         <item> My pleasure </item>
         <item> Shut up </item>
     </string-array>
@@ -3043,9 +3043,9 @@
         <item> Selamat bersenang senang </item>
         <item> Semoga harimu menyenangkan </item>
         <item> Selamat berakhir pekan </item>
-        <item> Tolong tunggu sbeentar </item>
+        <item> Tolong tunggu sebentar </item>
         <item> Dengan senang hati </item>
-        <item>Diam </item>
+        <item> Diam </item>
     </string-array>
     <string-array name="name_hafal28">
         <item> The last but not the least </item>
@@ -3055,20 +3055,20 @@
         <item> Let is get the ball rolling </item>
         <item> I am sick of you </item>
         <item> It is baloney </item>
-        <item> Just a minute! </item>
-        <item> Good job! </item>
+        <item> Just a minute ! </item>
+        <item> Good job ! </item>
         <item> It is over </item>
     </string-array>
     <string-array name="description_hafal28">
-        <item> Yang terakhir tapi tidak krang pentingnya </item>
+        <item> Yang terakhir tapi tidak kurang pentingnya </item>
         <item> Biarkan aku mencoba </item>
         <item> Ayo lakukan </item>
         <item> Mari kita mulai </item>
         <item> Mari kita mulai </item>
         <item> Saya muak melihatmu </item>
         <item> Itu omong kosong </item>
-        <item> Sebentar! </item>
-        <item> Kerja yang bagus! </item>
+        <item> Sebentar ! </item>
+        <item> Kerja yang bagus ! </item>
         <item> Ini sudah berakhir </item>
     </string-array>
     <string-array name="name_hafal29">
@@ -3077,10 +3077,10 @@
         <item> You are welcome </item>
         <item> Take your time </item>
         <item> Sounds good </item>
-        <item> What should I do? </item>
-        <item> Whatch out! </item>
+        <item> What should I do ? </item>
+        <item> Whatch out ! </item>
         <item> Never mind </item>
-        <item> What is up? </item>
+        <item> What is up ? </item>
         <item> Stay cool </item>
     </string-array>
     <string-array name="description_hafal29">
@@ -3089,8 +3089,8 @@
         <item> Sama-sama </item>
         <item> Pelan-pelan </item>
         <item> Kedengarannya bagus </item>
-        <item> Apa yang harus saya lakukan? </item>
-        <item> Awas! </item>
+        <item> Apa yang harus saya lakukan ? </item>
+        <item> Awas ! </item>
         <item> Lupakan </item>
         <item> Apa kabar </item>
         <item> Tetap tenang </item>
@@ -3099,29 +3099,29 @@
         <item> Whatever </item>
         <item> I dunno </item>
         <item> Wish me luck </item>
-        <item> Alright! </item>
-        <item> What is going on? </item>
+        <item> Alright ! </item>
+        <item> What is going on ? </item>
         <item> Of course </item>
         <item> As soos as possible (ASAP) </item>
         <item> Long time no see </item>
         <item> Just kidding </item>
-        <item> Hurry up! </item>
+        <item> Hurry up ! </item>
     </string-array>
     <string-array name="description_hafal30">
         <item> Terserah </item>
         <item> Saya tidak tahu </item>
         <item> Doakan aku berhasil </item>
-        <item> Baiklah! </item>
+        <item> Baiklah ! </item>
         <item> Apa yang terjadi ? </item>
         <item> Tentu saja </item>
         <item> Secepat mungkin</item>
         <item> Lama tak bertemu </item>
         <item> Cuma bercanda </item>
-        <item> Cepat! </item>
+        <item> Cepat ! </item>
     </string-array>
     <string-array name="name_hafal31">
-        <item> Do not worry! </item>
-        <item> Be quiet! </item>
+        <item> Do not worry ! </item>
+        <item> Be quiet ! </item>
         <item> I am broke </item>
         <item> Happy birthday </item>
         <item> I am in good mood </item>
@@ -3132,8 +3132,8 @@
         <item> On fire </item>
     </string-array>
     <string-array name="description_hafal31">
-        <item> Jaangan khawatir </item>
-        <item> Diam! </item>
+        <item> Jangan khawatir </item>
+        <item> Diam ! </item>
         <item> Saya bokek </item>
         <item> Selamat ulang tahun </item>
         <item> Saya dalam susana hati yang baik </item>
