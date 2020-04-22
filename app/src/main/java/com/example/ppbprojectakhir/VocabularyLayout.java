@@ -69,6 +69,30 @@ public class VocabularyLayout extends AppCompatActivity {
                     Intent intent = new Intent(VocabularyLayout.this, VocabularyAnimalName.class);
                     startActivity(intent);
                 }
+                if (position == 10) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyProfession.class);
+                    startActivity(intent);
+                }
+                if (position == 11) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyLyLess.class);
+                    startActivity(intent);
+                }
+                if (position == 12) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyNumber.class);
+                    startActivity(intent);
+                }
+                if (position == 13) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyWeather.class);
+                    startActivity(intent);
+                }
+                if (position == 14) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyBody.class);
+                    startActivity(intent);
+                }
+                if (position == 15) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyColor.class);
+                    startActivity(intent);
+                }
             }
         });
     }
