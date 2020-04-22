@@ -16,6 +16,54 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".VocabularyAnimalName"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".VocabularyFruitName"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".VocabularyInterjection"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".VocabularyConjunction"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".VocabularyPreposition"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".VocabularyAdverb"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
             android:name=".VocabularyAdjective"
             android:label="Bahasa Inggris"
             android:parentActivityName=".VocabularyLayout">

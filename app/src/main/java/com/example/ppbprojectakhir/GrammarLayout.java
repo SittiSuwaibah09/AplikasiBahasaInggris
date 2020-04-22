@@ -30,7 +30,7 @@ public class GrammarLayout extends AppCompatActivity {
         int rImg[] = {R.drawable.grammar};
         ArrayList<Item> list = new ArrayList<>();
         for (int i = 0; i < itemNames.length; i++) {
-            list.add(new Item(itemNames[i], itemDescription[i], rImg[0]));
+            list.add(new Item(itemNames[i], itemDescription[0], rImg[0]));
         }
         return list;
     }

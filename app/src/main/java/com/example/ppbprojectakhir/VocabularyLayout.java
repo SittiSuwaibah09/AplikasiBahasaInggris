@@ -45,6 +45,30 @@ public class VocabularyLayout extends AppCompatActivity {
                     Intent intent = new Intent(VocabularyLayout.this, VocabularyAdjective.class);
                     startActivity(intent);
                 }
+                if (position == 4) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyAdverb.class);
+                    startActivity(intent);
+                }
+                if (position == 5) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyPreposition.class);
+                    startActivity(intent);
+                }
+                if (position == 6) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyConjunction.class);
+                    startActivity(intent);
+                }
+                if (position == 7) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyInterjection.class);
+                    startActivity(intent);
+                }
+                if (position == 8) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyFruitName.class);
+                    startActivity(intent);
+                }
+                if (position == 9) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyAnimalName.class);
+                    startActivity(intent);
+                }
             }
         });
     }
