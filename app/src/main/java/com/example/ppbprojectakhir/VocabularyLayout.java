@@ -1,6 +1,9 @@
 package com.example.ppbprojectakhir;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -22,6 +25,28 @@ public class VocabularyLayout extends AppCompatActivity {
         CustomListAdapter adapter = new CustomListAdapter(this, generateItemList());
 
         listView.setAdapter(adapter);
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                if (position == 0) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyPronoun.class);
+                    startActivity(intent);
+                }
+                if (position == 1) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyNoun.class);
+                    startActivity(intent);
+                }
+                if (position == 2) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyVerb.class);
+                    startActivity(intent);
+                }
+                if (position == 3) {
+                    Intent intent = new Intent(VocabularyLayout.this, VocabularyAdjective.class);
+                    startActivity(intent);
+                }
+            }
+        });
     }
 
     private ArrayList<Item> generateItemList() {

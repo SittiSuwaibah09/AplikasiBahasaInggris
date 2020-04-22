@@ -5,29 +5,28 @@ import android.widget.ListView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.ppbprojectakhir.model.Item;
-
 import com.example.ppbprojectakhir.adapter.CustomListAdapter;
+import com.example.ppbprojectakhir.model.Item;
 
 import java.util.ArrayList;
 
-public class GrammarLayout extends AppCompatActivity {
+public class PercakapanLayout extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_grammar_layout);
+        setContentView(R.layout.activity_percakapan_layout);
 
-        ListView listView = (ListView) findViewById(R.id.listView2);
+        ListView listView = (ListView) findViewById(R.id.listView7);
 
         CustomListAdapter adapter = new CustomListAdapter(this, generateItemList());
         listView.setAdapter(adapter);
     }
 
     private ArrayList<Item> generateItemList() {
-        String itemNames[] = getResources().getStringArray(R.array.items_name2);
-        String itemDescription[] = {"Grammar bahasa inggris"};
-        int rImg[] = {R.drawable.grammar};
+        String itemNames[] = getResources().getStringArray(R.array.items_name7);
+        String itemDescription[] = getResources().getStringArray(R.array.items_description7);
+        int rImg[] = {R.drawable.percakapan};
         ArrayList<Item> list = new ArrayList<>();
         for (int i = 0; i < itemNames.length; i++) {
             list.add(new Item(itemNames[i], itemDescription[i], rImg[0]));

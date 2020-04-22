@@ -26,7 +26,7 @@ public class TensesLayout extends AppCompatActivity {
 
     private ArrayList<Item> generateItemList() {
         String itemNames[] = getResources().getStringArray(R.array.items_name3);
-        String itemDescription[] = getResources().getStringArray(R.array.items_description3);
+        String itemDescription[] = {"Belajar Tenses"};
         int rImg[] = {R.drawable.tenses};
 
         ArrayList<Item> list = new ArrayList<>();

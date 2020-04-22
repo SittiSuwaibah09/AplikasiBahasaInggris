@@ -8,6 +8,69 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".VocabularyAdjective"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".VocabularyVerb"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".VocabularyNoun"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".VocabularyPronoun"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".VocabularyLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".VocabularyLayout" />
+        </activity>
+        <activity
+            android:name=".Latihan2Layout"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name=".Latihan1Layout"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name=".PercakapanLayout"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
         <activity
             android:name=".HafalanLayout"
             android:label="@string/app_name"
@@ -15,13 +78,6 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
-        </activity>
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".VocabularyLayout"
@@ -31,7 +87,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-
         <activity
             android:name=".GrammarLayout"
             android:label="@string/app_name"
@@ -40,7 +95,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-
         <activity
             android:name=".TensesLayout"
             android:label="@string/app_name"

@@ -36,6 +36,1943 @@
         <item> Bagian-bagian tubuh </item>
         <item> Nama-nama warna </item>
     </string-array>
+    <string-array name="name_vocab">
+        <item> I </item>
+        <item> You </item>
+        <item> We </item>
+        <item> He </item>
+        <item> She </item>
+        <item> They </item>
+        <item> It </item>
+        <item> Myself </item>
+        <item> Yourself/yourselves </item>
+        <item> Themselves </item>
+        <item> Ourselves </item>
+        <item> Himself </item>
+        <item> Herself </item>
+        <item> Itself </item>
+        <item> Me </item>
+        <item> You </item>
+        <item> Her </item>
+        <item> Him </item>
+        <item> It </item>
+        <item> Us </item>
+        <item> Them </item>
+        <item> My food </item>
+        <item> Your food </item>
+        <item> His food </item>
+        <item> Her food </item>
+        <item> Its food </item>
+        <item> Our food </item>
+        <item> Their food </item>
+        <item> Mine </item>
+        <item> Yours </item>
+        <item> His </item>
+        <item> Hers </item>
+        <item> Its </item>
+        <item> Ours </item>
+        <item> Theirs </item>
+    </string-array>
+    <string-array name="description_vocab">
+        <item> Saya </item>
+        <item> Kamu, Anda, Kalian </item>
+        <item> Kami </item>
+        <item> Dia (laki-laki) </item>
+        <item> Dia (perempuan) </item>
+        <item> Mereka </item>
+        <item> Dia, itu, -nya </item>
+        <item> Saya sendiri </item>
+        <item> Kamu sendiri/kalian sendiri </item>
+        <item> Mereka sendiri </item>
+        <item> Kami sendiri </item>
+        <item> Dia sendiri (laki-laki) </item>
+        <item> Dia sendiri (perempuan) </item>
+        <item> Dia sendiri (benda atau binatang) </item>
+        <item> Saya, aku (sebagai objek) </item>
+        <item> Kamu, Anda, kalian (sebagai objek) </item>
+        <item> Dia (perempuan) (sebagai objek) </item>
+        <item> Dia (laki-laki) (sebagai objek) </item>
+        <item> Dia, itu, -nya (sebagai objek) </item>
+        <item> Kita, kami (sebagai objek) </item>
+        <item> Mereka (sebagai objek) </item>
+        <item> Makanan Saya </item>
+        <item> Makanan Kamu, Anda, kalian </item>
+        <item> Makanan Dia (laki-laki) </item>
+        <item> Makanan Dia (perempuan) </item>
+        <item> Makanan Dia, itu, -nya </item>
+        <item> Makanan Kami </item>
+        <item> Makanan Mereka </item>
+        <item> milik saya </item>
+        <item> milikmu </item>
+        <item> milik Dia (laki-laki) </item>
+        <item> milik Dia (perempuan) </item>
+        <item> miliknya (benda/binatang) </item>
+        <item> milik kami </item>
+        <item> milik mereka </item>
+    </string-array>
+    <string-array name="name_vocab1">
+        <item> House </item>
+        <item> School </item>
+        <item> Hospital </item>
+        <item> Library </item>
+        <item> Market </item>
+        <item> Car </item>
+        <item> Bike </item>
+        <item> Motorcycle </item>
+        <item> Book </item>
+        <item> Pen </item>
+        <item> Bag </item>
+        <item> Marker </item>
+        <item> Mosque </item>
+        <item> Table </item>
+        <item> Chair </item>
+        <item> Cinema </item>
+        <item> Khife </item>
+        <item> Spoom </item>
+        <item> Plate </item>
+        <item> Fork </item>
+        <item> Clothes </item>
+        <item> Food </item>
+        <item> Animal </item>
+        <item> Airport </item>
+        <item> Army </item>
+        <item> Bedroom </item>
+        <item> Bird </item>
+        <item> Plant </item>
+        <item> Brush </item>
+        <item> Card </item>
+        <item> Chicken </item>
+        <item> Chocolate </item>
+        <item> College </item>
+        <item> Computer </item>
+        <item> Country </item>
+        <item> Cousin </item>
+        <item> Dad </item>
+        <item> Daughter </item>
+        <item> Door </item>
+        <item> Egg </item>
+        <item> Family </item>
+        <item> Farm </item>
+        <item> Father </item>
+        <item> Flower </item>
+        <item> Garden </item>
+        <item> Grass </item>
+        <item> Mother </item>
+        <item> Office </item>
+        <item> Plane </item>
+        <item> Salt </item>
+        <item> Sugar </item>
+        <item> Student </item>
+        <item> Telephone </item>
+        <item> Television </item>
+        <item> Water </item>
+    </string-array>
+    <string-array name="description_vocab1">
+        <item> Rumah </item>
+        <item> Sekolah </item>
+        <item> Rumah Sakit </item>
+        <item> Perpustakaan </item>
+        <item> Pasar </item>
+        <item> Mobil </item>
+        <item> Sepeda </item>
+        <item> Sepeda Motor </item>
+        <item> Buku </item>
+        <item> Pena </item>
+        <item> Tas </item>
+        <item> Spidol </item>
+        <item> Masjid </item>
+        <item> Meja </item>
+        <item> Kursi </item>
+        <item> Bioskop </item>
+        <item> Pisau </item>
+        <item> Sendok </item>
+        <item> Piring </item>
+        <item> Garpu </item>
+        <item> Pakaian </item>
+        <item> Makanan </item>
+        <item> Hewan </item>
+        <item> Bandara </item>
+        <item> Tentara </item>
+        <item> Kamat Tidur </item>
+        <item> Burung </item>
+        <item> Tumbuhan </item>
+        <item> Sikat </item>
+        <item> Kartu </item>
+        <item> Ayam </item>
+        <item> Cokelat </item>
+        <item> Perguruan Tinggi </item>
+        <item> Komputer </item>
+        <item> Negara </item>
+        <item> Sepupu </item>
+        <item> Ayah </item>
+        <item> Putri </item>
+        <item> Pintu </item>
+        <item> Telur </item>
+        <item> Keluarga </item>
+        <item> Pertanian </item>
+        <item> Ayah </item>
+        <item> Bunga </item>
+        <item> Kebun </item>
+        <item> Rumput </item>
+        <item> Ibu </item>
+        <item> Kantor </item>
+        <item> Pesawat </item>
+        <item> Garam </item>
+        <item> Gula </item>
+        <item> Mahasiswa </item>
+        <item> Telepon </item>
+        <item> Televisi </item>
+        <item> Air </item>
+    </string-array>
+    <string-array name="name_vocab2">
+        <item> Accept </item>
+        <item> Add </item>
+        <item> Agree </item>
+        <item> Allow </item>
+        <item> Announce </item>
+        <item> Annoy </item>
+        <item> Answer </item>
+        <item> Apologize </item>
+        <item> Arrive </item>
+        <item> Ask </item>
+        <item> Attach </item>
+        <item> Attend </item>
+        <item> Approve </item>
+        <item> Borrow </item>
+        <item> Buy </item>
+        <item> Choose </item>
+        <item> Call </item>
+        <item> Cry </item>
+        <item> Dance </item>
+        <item> Do </item>
+        <item> Draw </item>
+        <item> Dream </item>
+        <item> Drink </item>
+        <item> Drive </item>
+        <item> Eat </item>
+        <item> Forget </item>
+        <item> Forgive </item>
+        <item> Go </item>
+        <item> Invite </item>
+        <item> Kill </item>
+        <item> Kiss </item>
+        <item> Laugh </item>
+        <item> Learn </item>
+        <item> Listen </item>
+        <item> Look </item>
+        <item> Make </item>
+        <item> Miss </item>
+        <item> Mistake </item>
+        <item> Open </item>
+        <item> Ride </item>
+        <item> Save </item>
+        <item> Saw </item>
+        <item> Say </item>
+        <item> Search </item>
+        <item> See </item>
+        <item> Seek </item>
+        <item> Serve </item>
+        <item> Swim </item>
+        <item> Take </item>
+        <item> Talk </item>
+        <item> Think </item>
+        <item> Use </item>
+        <item> Visit </item>
+        <item> Wait </item>
+        <item> Wake </item>
+        <item> Walk </item>
+        <item> Want </item>
+        <item> Wash </item>
+        <item> Watch </item>
+        <item> Write </item>
+    </string-array>
+    <string-array name="description_vocab2">
+        <item> Menerima </item>
+        <item> Menambahkan </item>
+        <item> Menyetujui </item>
+        <item> Mengizinkan </item>
+        <item> Mengumunkan </item>
+        <item> Mengganggu </item>
+        <item> Menjawab </item>
+        <item> Menjawab </item>
+        <item> Minta Maaf </item>
+        <item> Tiba </item>
+        <item> Meminta, Bertanya </item>
+        <item> Melampirkan </item>
+        <item> Menghadiri </item>
+        <item> Menyetujui </item>
+        <item> Meminjam </item>
+        <item> Membeli </item>
+        <item> Memilih </item>
+        <item> Memanggil, Menelpon </item>
+        <item> Menangis </item>
+        <item> Menari </item>
+        <item> Melakukan </item>
+        <item> Menggambar </item>
+        <item> Bermimpi </item>
+        <item> Minum </item>
+        <item> Mengendarai </item>
+        <item> Makan </item>
+        <item> Lupa </item>
+        <item> Memaafkan </item>
+        <item> Pergi </item>
+        <item> Mengundang </item>
+        <item> Membunuh </item>
+        <item> Mencium </item>
+        <item> Tertawa </item>
+        <item> Belajar </item>
+        <item> Mendengar </item>
+        <item> Melihat </item>
+        <item> Membuat </item>
+        <item> Kangen </item>
+        <item> Salah Mengira </item>
+        <item> Membuka </item>
+        <item> Naik, Menunggang </item>
+        <item> Menyimpan </item>
+        <item> Menggergaji </item>
+        <item> Mengatakan </item>
+        <item> Mencari </item>
+        <item> Melihat </item>
+        <item> Mencari </item>
+        <item> Melayani </item>
+        <item> Berenang </item>
+        <item> Mengambil </item>
+        <item> Berbicara </item>
+        <item> Berpikir </item>
+        <item> Menggunakan </item>
+        <item> Mengunjungi </item>
+        <item> Menunggu </item>
+        <item> Bangun </item>
+        <item> Berjalan </item>
+        <item> Ingin </item>
+        <item> Mencuci </item>
+        <item> Menonton </item>
+        <item> Menulis </item>
+    </string-array>
+    <string-array name="name_vocab3">
+        <item> Amazing </item>
+        <item> Angry </item>
+        <item> Awesome </item>
+        <item> Beautiful </item>
+        <item> Beneficial </item>
+        <item> Best </item>
+        <item> Brave </item>
+        <item> Careful </item>
+        <item> Clever </item>
+        <item> Clumsy </item>
+        <item> Cool </item>
+        <item> Crazy </item>
+        <item> Cruel </item>
+        <item> Cute </item>
+        <item> Fair </item>
+        <item> Faithful </item>
+        <item> Familiar </item>
+        <item> Fearful </item>
+        <item> Forgetful </item>
+        <item> Friendly </item>
+        <item> Good </item>
+        <item> Graceful </item>
+        <item> Great </item>
+        <item> Greedy </item>
+        <item> Handsome </item>
+        <item> Happy </item>
+        <item> Impolite </item>
+        <item> Jealous </item>
+        <item> Jolly </item>
+        <item> Lazy </item>
+        <item> Lucky </item>
+        <item> Naughty </item>
+        <item> Nervous </item>
+        <item> Noisy </item>
+        <item> Obedient </item>
+        <item> Powerful </item>
+        <item> Proud </item>
+        <item> Rich </item>
+        <item> Scary </item>
+        <item> Selfish </item>
+        <item> Short </item>
+        <item> Shy </item>
+        <item> Stupid </item>
+        <item> Smart </item>
+        <item> Strong </item>
+        <item> Tall </item>
+        <item> Warm </item>
+        <item> Weak </item>
+        <item> Worried </item>
+    </string-array>
+    <string-array name="description_vocab3">
+        <item> Menakjubkan </item>
+        <item> Marah </item>
+        <item> Mengagumkan </item>
+        <item> Cantik </item>
+        <item> Bermanfaat </item>
+        <item> Terbaik </item>
+        <item> Berani </item>
+        <item> Cermat </item>
+        <item> Cerdas </item>
+        <item> Ceroboh </item>
+        <item> Keren </item>
+        <item> Gila </item>
+        <item> Kejam </item>
+        <item> Imut </item>
+        <item> Adil </item>
+        <item> Setia </item>
+        <item> Akrab </item>
+        <item> Takut </item>
+        <item> Pelupa </item>
+        <item> Ramah </item>
+        <item> Baik </item>
+        <item> Anggun </item>
+        <item> Hebat </item>
+        <item> Serakah </item>
+        <item> Tampan </item>
+        <item> Senang </item>
+        <item> Tidak Sopan </item>
+        <item> Cemburu </item>
+        <item> Riang </item>
+        <item> Malas </item>
+        <item> Beruntung </item>
+        <item> Nakal </item>
+        <item> Gugup </item>
+        <item> Berisik </item>
+        <item> Taat </item>
+        <item> Berkuasa </item>
+        <item> Bangga </item>
+        <item> Kaya </item>
+        <item> Mengerikan </item>
+        <item> Egois </item>
+        <item> Pendek </item>
+        <item> Malu </item>
+        <item> Bodoh </item>
+        <item> Pintar </item>
+        <item> Kuat </item>
+        <item> Tinggi </item>
+        <item> Hangat </item>
+        <item> Lemah </item>
+        <item> Cemas </item>
+    </string-array>
+    <string-array name="name_vocab4">
+        <item> About </item>
+        <item> Above </item>
+        <item> Abroad </item>
+        <item> Across </item>
+        <item> After all </item>
+        <item> Afterwards </item>
+        <item> Ahead </item>
+        <item> Anywhere </item>
+        <item> Around </item>
+        <item> As far as </item>
+        <item> At </item>
+        <item> At home </item>
+        <item> At school </item>
+        <item> At station </item>
+        <item> At the end </item>
+        <item> Away </item>
+        <item> Already </item>
+        <item> Always </item>
+        <item> Annually </item>
+        <item> Accidentally </item>
+        <item> Almost </item>
+        <item> Before </item>
+        <item> Back </item>
+        <item> Backward </item>
+        <item> Before </item>
+        <item> Behind </item>
+        <item> Below </item>
+        <item> Between </item>
+        <item> Carefully </item>
+        <item> Carelessly </item>
+        <item> Cautiously </item>
+        <item> Cheerfully </item>
+        <item> Close-by </item>
+        <item> Daily </item>
+        <item> Down </item>
+        <item> Downstairs </item>
+        <item> Downwards </item>
+        <item> Exactly </item>
+        <item> Earlier </item>
+        <item> Early </item>
+        <item> Eventually </item>
+        <item> Ever </item>
+        <item> East </item>
+        <item> East Southeast </item>
+        <item> Eastwards </item>
+        <item> Elsewhere </item>
+        <item> Everywhere </item>
+        <item> Faithfully </item>
+        <item> Fast </item>
+        <item> Fortunately </item>
+        <item> Frantically </item>
+        <item> Frequently </item>
+        <item> Far </item>
+        <item> Far apart </item>
+        <item> Far away </item>
+        <item> Finally </item>
+        <item> Firstly </item>
+        <item> Gently </item>
+        <item> Generally </item>
+        <item> Here </item>
+        <item> Hereabouts </item>
+        <item> Hereby </item>
+        <item> Hereto </item>
+        <item> Heretofore </item>
+        <item> Homeward </item>
+        <item> Infrequently </item>
+        <item> In </item>
+        <item> In back </item>
+        <item> In front of </item>
+        <item> In the corner </item>
+        <item> In there </item>
+        <item> Indoors </item>
+        <item> Inside </item>
+        <item> Just </item>
+        <item> Less </item>
+        <item> Late </item>
+        <item> Lately </item>
+        <item> Later </item>
+        <item> Lastly </item>
+        <item> Left </item>
+        <item> More </item>
+        <item> Miles apart </item>
+        <item> Nearly </item>
+        <item> Never </item>
+        <item> Normally </item>
+        <item> Now </item>
+        <item> Near </item>
+        <item> Nearby </item>
+        <item> Next </item>
+        <item> North </item>
+        <item> Northeast </item>
+        <item> Northwest </item>
+        <item> Nowhere </item>
+        <item> Only </item>
+        <item> Often </item>
+        <item> Off </item>
+        <item> On </item>
+        <item> On the left </item>
+        <item> On the right </item>
+        <item> Out </item>
+        <item> Outside </item>
+        <item> Over </item>
+        <item> Painfully </item>
+        <item> Perfectly </item>
+        <item> Politely </item>
+        <item> Previously </item>
+        <item> Quickly </item>
+        <item> Really </item>
+        <item> Rarely </item>
+        <item> Recently </item>
+        <item> Regularly </item>
+        <item> Right </item>
+        <item> Slowly </item>
+        <item> Seldom </item>
+        <item> Since </item>
+        <item> Sometimes </item>
+        <item> Soon </item>
+        <item> Still </item>
+        <item> Secondly </item>
+        <item> Somewhere </item>
+        <item> South </item>
+        <item> Southeast </item>
+        <item> Southwards </item>
+        <item> Southwest </item>
+        <item> Straight on </item>
+        <item> Too </item>
+        <item> Today </item>
+        <item> Tomorrow </item>
+        <item> Tonight </item>
+        <item> Then </item>
+        <item> There </item>
+        <item> Therewith </item>
+        <item> Thirdly </item>
+        <item> To </item>
+        <item> To the left </item>
+        <item> To the right </item>
+        <item> Toward </item>
+        <item> Towards </item>
+        <item> Turn left </item>
+        <item> Turn right </item>
+        <item> Usually </item>
+        <item> Under </item>
+        <item> Up </item>
+        <item> Upstairs </item>
+        <item> Upwards </item>
+        <item> Very </item>
+        <item> West </item>
+        <item> Where </item>
+        <item> Whereabouts </item>
+        <item> Whereby </item>
+        <item> Within </item>
+        <item> Yesterday </item>
+        <item> Yet </item>
+    </string-array>
+    <string-array name="description_vocab4">
+        <item> Di mana-mana / ke mana-mana </item>
+        <item> Di atas </item>
+        <item> Ke luar negeri </item>
+        <item> Di seberang </item>
+        <item> Setelah semuanya / akhirnya </item>
+        <item> Setelah itu </item>
+        <item> Lurus / terus </item>
+        <item> Di manapun </item>
+        <item> Sekitar </item>
+        <item> Sejauh </item>
+        <item> Di </item>
+        <item> Di rumah </item>
+        <item> Di sekolah </item>
+        <item> Di stasiun </item>
+        <item> Di ujung </item>
+        <item> Jauh </item>
+        <item> Sudah </item>
+        <item> Selalu </item>
+        <item> Setiap tahun </item>
+        <item> Kebetulan </item>
+        <item> Hampir </item>
+        <item> Sebelum </item>
+        <item> Kembali / di belakang </item>
+        <item> Mundur / belakang </item>
+        <item> Di belakang </item>
+        <item> Di bawah </item>
+        <item> Di antara </item>
+        <item> Dengan hati-hati </item>
+        <item> Dengan sembarang </item>
+        <item> Dengan hati-hati </item>
+        <item> Dengan riang </item>
+        <item> Dekat </item>
+        <item> Sehari hari </item>
+        <item> Turun / bawah </item>
+        <item> Di bawah </item>
+        <item> Ke bawah </item>
+        <item> Persis </item>
+        <item> Terdahulu </item>
+        <item> Awal </item>
+        <item> Pada akhirnya </item>
+        <item> Pernah </item>
+        <item> Timur </item>
+        <item> Timur Tenggara </item>
+        <item> Ke timur </item>
+        <item> Di tempat lain </item>
+        <item> Di mana-mana </item>
+        <item> Dengan setia </item>
+        <item> Cepat </item>
+        <item> Secara kebetulan </item>
+        <item> Dengan penuh ketakutan </item>
+        <item> Sering </item>
+        <item> Jauh </item>
+        <item> Sangat jauh </item>
+        <item> Sangat jauh </item>
+        <item> Akhirnya </item>
+        <item> Pertama-tama </item>
+        <item> Lembut </item>
+        <item> Umumnya </item>
+        <item> Di sini </item>
+        <item> Di sekitar sini </item>
+        <item> Dengan ini </item>
+        <item> Ke ini </item>
+        <item> Sebelum ini </item>
+        <item> Ke arah rumah </item>
+        <item> Jarang </item>
+        <item> Di dalam </item>
+        <item> Di belakang / ke belakang </item>
+        <item> Di depan </item>
+        <item> Di pojok </item>
+        <item> Di dalam sana </item>
+        <item> Di dalam ruangan </item>
+        <item> Di dalam </item>
+        <item> Hanya </item>
+        <item> Kurang </item>
+        <item> Terlambat </item>
+        <item> Akhir-akhir ini </item>
+        <item> Kemudian </item>
+        <item> Akhirnya </item>
+        <item> Kiri </item>
+        <item> Lebih </item>
+        <item> Terpisah jauh </item>
+        <item> Hampir </item>
+        <item> Tidak pernah </item>
+        <item> Biasanya </item>
+        <item> Sekarang </item>
+        <item> Dekat </item>
+        <item> Terdekat </item>
+        <item> Berikutnya </item>
+        <item> Utara </item>
+        <item> Timur laut </item>
+        <item> Barat laut </item>
+        <item> Tidak dimana-mana / di manapun juga </item>
+        <item> Hanya </item>
+        <item> Sering </item>
+        <item> Jauh </item>
+        <item> Di / di atas </item>
+        <item> Di kiri </item>
+        <item> Di kanan </item>
+        <item> Di luar </item>
+        <item> Di luar </item>
+        <item> Di atas </item>
+        <item> Dengan sakit </item>
+        <item> Dengan sempurna </item>
+        <item> Dengan sopan </item>
+        <item> Sebelumnya </item>
+        <item> Segara </item>
+        <item> Benar-benar </item>
+        <item> Jarang </item>
+        <item> Baru-baru ini </item>
+        <item> Secara teratur </item>
+        <item> Kanan </item>
+        <item> Secara perlahan </item>
+        <item> Jarang </item>
+        <item> Sejak </item>
+        <item> Kadang-kadang </item>
+        <item> Segera </item>
+        <item> Masih </item>
+        <item> Kedua </item>
+        <item> Di suatu tempat </item>
+        <item> Selatan </item>
+        <item> Tenggara </item>
+        <item> Ke selatan </item>
+        <item> Barat daya </item>
+        <item> Lurus </item>
+        <item> Terlalu </item>
+        <item> Hari ini </item>
+        <item> Besok </item>
+        <item> Malam ini </item>
+        <item> Lalu </item>
+        <item> Di sana </item>
+        <item> Bersamaan dengan itu </item>
+        <item> Ketiga </item>
+        <item> Ke </item>
+        <item> Ke kiri </item>
+        <item> Ke kanan </item>
+        <item> Ke arah / menuju </item>
+        <item> Menuju </item>
+        <item> Belok kiri </item>
+        <item> Belok kanan </item>
+        <item> Biasanya </item>
+        <item> Dibawah </item>
+        <item> Di atas </item>
+        <item> Di lantai atas </item>
+        <item> Ke atas </item>
+        <item> Sangat </item>
+        <item> Barat </item>
+        <item> Dimana </item>
+        <item> Di bagian mana </item>
+        <item> Dengan jalan mana </item>
+        <item> Dalam </item>
+        <item> Kemarin </item>
+        <item> Belum </item>
+    </string-array>
+    <string-array name="name_vocab5">
+        <item> Aboard </item>
+        <item> About </item>
+        <item> Above </item>
+        <item> Across </item>
+        <item> After </item>
+        <item> Againts </item>
+        <item> Along </item>
+        <item> Alongside </item>
+        <item> Amid </item>
+        <item> Among </item>
+        <item> Anti </item>
+        <item> Around </item>
+        <item> As </item>
+        <item> Astride </item>
+        <item> At </item>
+        <item> Atop </item>
+        <item> Bar </item>
+        <item> Barring </item>
+        <item> Before </item>
+        <item> Behind </item>
+        <item> Below </item>
+        <item> Beneath </item>
+        <item> Beside </item>
+        <item> Besides </item>
+        <item> Between </item>
+        <item> Beyond </item>
+        <item> But </item>
+        <item> By </item>
+        <item> Circa </item>
+        <item> Concerning </item>
+        <item> Considering </item>
+        <item> Despite </item>
+        <item> Down </item>
+        <item> During </item>
+        <item> Excpet </item>
+        <item> Excepting </item>
+        <item> Excluding </item>
+        <item> Following </item>
+        <item> For </item>
+        <item> From </item>
+        <item> Given </item>
+        <item> Gone </item>
+        <item> In </item>
+        <item> Including </item>
+        <item> Inside </item>
+        <item> Into </item>
+        <item> Less </item>
+        <item> Like </item>
+        <item> Minus </item>
+        <item> Near </item>
+        <item> Notwithstanding </item>
+        <item> Of </item>
+        <item> Off </item>
+        <item> On </item>
+        <item> Onto </item>
+        <item> Opposite </item>
+        <item> Outside </item>
+        <item> Over </item>
+        <item> Past </item>
+        <item> Pending </item>
+        <item> Per </item>
+        <item> Plus </item>
+        <item> Pro </item>
+        <item> Re </item>
+        <item> Regarding </item>
+        <item> Respecting </item>
+        <item> Round </item>
+        <item> Save </item>
+        <item> Saving </item>
+        <item> Since </item>
+        <item> Than </item>
+        <item> Through </item>
+        <item> Throughout </item>
+        <item> Till </item>
+        <item> To </item>
+        <item> Touching </item>
+        <item> Toward </item>
+        <item> Under </item>
+        <item> Underneath </item>
+        <item> Unlike </item>
+        <item> Until </item>
+        <item> Up </item>
+        <item> Upon </item>
+        <item> Versus </item>
+        <item> Via </item>
+        <item> With </item>
+        <item> Within </item>
+        <item> Without </item>
+        <item> Worth </item>
+    </string-array>
+    <string-array name="description_vocab5">
+        <item> Di atas </item>
+        <item> Tentang </item>
+        <item> Di atas </item>
+        <item> Seberang </item>
+        <item> Setelah </item>
+        <item> Berlawanan, terhadap </item>
+        <item> Sepanjang </item>
+        <item> Di samping </item>
+        <item> Di tengah-tengah </item>
+        <item> Antara </item>
+        <item> Anti, berlawanan </item>
+        <item> Sekitar </item>
+        <item> Sebagai </item>
+        <item> Mengangkang </item>
+        <item> Di </item>
+        <item> Di atas </item>
+        <item> Menghalangi, melarang </item>
+        <item> Terkecuali </item>
+        <item> Sebelum </item>
+        <item> Di belakang </item>
+        <item> Di bawah </item>
+        <item> Di bawah </item>
+        <item> Di samping </item>
+        <item> Selain </item>
+        <item> Antara </item>
+        <item> Seberang, sebelah sana </item>
+        <item> Tetapi </item>
+        <item> Oleh </item>
+        <item> Sekitar </item>
+        <item> Mengenai </item>
+        <item> Mempertimbangkan </item>
+        <item> Meskipun </item>
+        <item> Ke bawah, di bawah </item>
+        <item> Selama </item>
+        <item> Kecuali </item>
+        <item> Tidak termasuk </item>
+        <item> Termasuk </item>
+        <item> Berikut </item>
+        <item> Untuk </item>
+        <item> Dari </item>
+        <item> Diberikan </item>
+        <item> Mati </item>
+        <item> Di </item>
+        <item> Termasuk </item>
+        <item> Dalam </item>
+        <item> Menjadi </item>
+        <item> Kurang </item>
+        <item> Seperti </item>
+        <item> Kurang </item>
+        <item> Dekat </item>
+        <item> Meskipun </item>
+        <item> Dari </item>
+        <item> Lepas, tidak hidup </item>
+        <item> Pada </item>
+        <item> Atas </item>
+        <item> Lawan </item>
+        <item> Di luar </item>
+        <item> Lebih </item>
+        <item> Lalu </item>
+        <item> Tertunda </item>
+        <item> Setiap </item>
+        <item> Plus </item>
+        <item> Pro </item>
+        <item> Kembali </item>
+        <item> Mengenai </item>
+        <item> Mengenai </item>
+        <item> Bulat </item>
+        <item> Menyimpan </item>
+        <item> Penghematan </item>
+        <item> Sejak </item>
+        <item> Dari </item>
+        <item> Melalui </item>
+        <item> Di seluruh </item>
+        <item> Sampai </item>
+        <item> Untuk </item>
+        <item> Sentuhan </item>
+        <item> Menuju </item>
+        <item> Bawah </item>
+        <item> Di bawah </item>
+        <item> Tidak seperti </item>
+        <item> Sampai </item>
+        <item> Naik </item>
+        <item> Di atas </item>
+        <item> Lawan </item>
+        <item> Melalui </item>
+        <item> Dengan </item>
+        <item> Dalam </item>
+        <item> Tanpa </item>
+        <item> Bernilai </item>
+    </string-array>
+    <string-array name="name_vocab6">
+        <item> After </item>
+        <item> Although </item>
+        <item> And </item>
+        <item> Before </item>
+        <item> Both.. and.. </item>
+        <item> Because </item>
+        <item> But </item>
+        <item> Despite </item>
+        <item> Even though </item>
+        <item> For </item>
+        <item> However </item>
+        <item> In contrast </item>
+        <item> In order that </item>
+        <item> In order to </item>
+        <item> In that case </item>
+        <item> If only </item>
+        <item> If then </item>
+        <item> Lest </item>
+        <item> Meanwhile </item>
+        <item> Nor </item>
+        <item> Not only.. but also.. </item>
+        <item> On the other hand </item>
+        <item> So that </item>
+        <item> Since </item>
+        <item> So </item>
+        <item> Supposing, suppose that </item>
+        <item> Therefore </item>
+        <item> Then </item>
+        <item> Till </item>
+        <item> Than </item>
+        <item> Until </item>
+        <item> Up to </item>
+        <item> Unless </item>
+        <item> While </item>
+        <item> Whereas </item>
+        <item> When </item>
+        <item> Whenever </item>
+        <item> Whether </item>
+        <item> Yet </item>
+    </string-array>
+    <string-array name="description_vocab6">
+        <item> Setelah, sesudah </item>
+        <item> Meskipun </item>
+        <item> Dan </item>
+        <item> Sebelum </item>
+        <item> Baik.. maupun.. </item>
+        <item> Karena </item>
+        <item> Tapi </item>
+        <item> Meskipun </item>
+        <item> Meskipun </item>
+        <item> Karena, untuk, bagi </item>
+        <item> Namun, bagaimanapun </item>
+        <item> Sebaliknya </item>
+        <item> Sehingga </item>
+        <item> Untuk </item>
+        <item> Dalam hal itu, kalau begitu </item>
+        <item> Seandainya </item>
+        <item> Jika kemudian </item>
+        <item> Jangan sampai, agar tidak </item>
+        <item> Sementara itu </item>
+        <item> Maupun </item>
+        <item> Tidak hanya.. tapi juga.. </item>
+        <item> Sebaliknya </item>
+        <item> Sehingga, maka </item>
+        <item> Sejak </item>
+        <item> Oleh karena itu </item>
+        <item> Seandainya </item>
+        <item> Oleh karena itu </item>
+        <item> Kemudian </item>
+        <item> Sampai, sehingga </item>
+        <item> Daripada </item>
+        <item> Sampai, sehingga </item>
+        <item> Hingga </item>
+        <item> Kecuali kalau, kalau tidak </item>
+        <item> Sementara, sedangkan, sambil </item>
+        <item> Sedangka, padahal </item>
+        <item> Ketika </item>
+        <item> Kapanpun, sewaktu-waktu </item>
+        <item> Apakah </item>
+        <item> Namun, tapi </item>
+    </string-array>
+    <string-array name="name_vocab7">
+        <item> Aah </item>
+        <item> Ah </item>
+        <item> Aha </item>
+        <item> Ahh </item>
+        <item> Alas </item>
+        <item> Argh </item>
+        <item> Bah </item>
+        <item> Big deal </item>
+        <item> Bingo </item>
+        <item> Boo </item>
+        <item> Boo hoo </item>
+        <item> Dammit </item>
+        <item> Damn </item>
+        <item> Dear </item>
+        <item> Dear me </item>
+        <item> Drat </item>
+        <item> Eh </item>
+        <item> Er </item>
+        <item> Ew </item>
+        <item> Gee </item>
+        <item> Goodbye </item>
+        <item> Great </item>
+        <item> Hah </item>
+        <item> Hello </item>
+        <item> Help </item>
+        <item> Hey </item>
+        <item> Hi </item>
+        <item> Hm </item>
+        <item> Hmm </item>
+        <item> Huh </item>
+        <item> Hullo </item>
+        <item> Hurray </item>
+        <item> Hush </item>
+        <item> Ick </item>
+        <item> Indeed </item>
+        <item> Oh </item>
+        <item> Oh boy </item>
+        <item> Oh lord </item>
+        <item> Oh yes </item>
+        <item> OK </item>
+        <item> OMG (Oh My God) </item>
+        <item> Ooh </item>
+        <item> Oops </item>
+        <item> Ouch </item>
+        <item> Ow </item>
+        <item> Phew </item>
+        <item> Please </item>
+        <item> Poof </item>
+        <item> Psst </item>
+        <item> Sh </item>
+        <item> Shoo </item>
+        <item> Shucks </item>
+        <item> Ugh </item>
+        <item> Uh </item>
+        <item> Uh-huh </item>
+        <item> Uh-oh </item>
+        <item> Uh-uh </item>
+        <item> Um </item>
+        <item> Welcome </item>
+        <item> Well </item>
+        <item> Whew </item>
+        <item> Whoa </item>
+        <item> Wow </item>
+        <item> Yeah </item>
+        <item> Yippee </item>
+        <item> Yoo-hoo </item>
+        <item> Yuck </item>
+        <item> Yum </item>
+    </string-array>
+    <string-array name="description_vocab7">
+        <item> Digunakan untuk mengekspresikan paham, senang, rasa sakit dan terkejut </item>
+        <item> Digunakan untuk mengekspresikan paham, senang, rasa sakit dan terkejut </item>
+        <item> Digunakan ketika memahami atau menemukan sesuatu </item>
+        <item> Mengungkapkan kesadaran atau penerimaan </item>
+        <item> Digunakan untuk mengekspresikan kesedihan atau rasa menyesal atas sesuatu </item>
+        <item> Ungkapan frustasi </item>
+        <item> Ekspresi marah atau tidak setuju </item>
+        <item> Dikatakan ketika seseorang berpikir apa yang dilakukan orang lain tidak penting atau tidak spesial </item>
+        <item> Ekspresi terkejut dan senang </item>
+        <item> Digunakan untuk mengagetkan dan menakuti seseorang yang tidak tahu ada orang di dekatnya </item>
+        <item> Suara menangis keras seperti anak kecil </item>
+        <item> Ekspresi marah </item>
+        <item> Ekspresi marah </item>
+        <item> Digunakan untuk mengekspresikan rasa marah, tidak setuju, sedih atau terkejut </item>
+        <item> Digunakan untuk mengekspresikan rasa marah, tidak setuju, sedih atau terkejut </item>
+        <item> Digunakan ketika merasa sedikit kesal </item>
+        <item> Ekspresi keterkejutan atau kebingungan; Untuk meminta seseorang mengulangi kalimatnya kembali atau untuk bereaksi atas pertanyaan seseorang </item>
+        <item> Digunakan ketika seseorang berhenti sesaat di tengah pembicaraan karena sedang memikirkan apa yang akan dikatakan selanjutnya </item>
+        <item> Ekspresi jijik </item>
+        <item> Ekspresi kaget atau antusias </item>
+        <item> Digunakan ketika seseorang pergi </item>
+        <item> Digunakan untuk menyemangati atau memuji seseorang </item>
+        <item> Digunakan untuk mengekspresikan kepuasan bahwa sesuatu yang huruk telah terjadi pada seseorang yang pantas mendapatkannya; Untuk mengekspresikan perasaan kemenangan </item>
+        <item> Digunakan untuk menyapa atau menyambut seseorang; Untuk memulai percakapan via telepon; Untuk menarik perhatian seseorang; Untuk menyindir seseorang yang tidak menyadari kebodohan yang ia lakukan, atau ekspresi terkejut </item>
+        <item> Digunakan untuk meminta pertolongan </item>
+        <item> Digunakan untuk menarik perhatian seseorang, terkadang dalam situasi yang tidak menyenangkan </item>
+        <item> Digunakan ketika memberi salam secara informal, bisanya untuk orang dekat </item>
+        <item> Ungkapan ketika berhenti sesaat saat berbicara atau saat tidak yakin akan yang dibicarakan </item>
+        <item> Ungkapan ketika berhenti sesaat saat berbicara atau saat tidak yakin akan yang dibicarakan </item>
+        <item> Digunakan untuk menunjukkan bahwa seseorang tidak mendengar atau memahami sesuatu; Untuk menunjukkan ketidaksetujuan; Untuk mengakhiri kalimat </item>
+        <item> Digunakan untuk menyapa atau menyambut seseorang; Untuk memulai percakapan via telepon; Untuk menarik perhatian seseorang; Untuk menyindir seseorang yang tidak menyadari kebodohan yang ia lakukan, atau ekspresi terkejut </item>
+        <item> Digunakan untuk mengekspresikan kegembiraan, kesenangan, dan persetujuan </item>
+        <item> Digunakan untuk memberi tahu seseorang untuk diam </item>
+        <item> Digunakan untuk mengekspresikan betapa terkejutnya seseorang hingga merasa muak </item>
+        <item> Digunakan untuk mengekspresikan marah, terkejut atau kurang percaya </item>
+        <item> Digunakan untuk mengekspresikan keterkejutan, ketidaksetujuan dan kesenangan, seringkala untuk merespon lawan bicara; Untuk mengungkapkan ide yang baru terpikir atau mengutarakan hal yang baru diingat; Untuk digunakan bersama ekspresi tidak setuju, sedih, dan marah </item>
+        <item> Digunakan untuk mengekspresikan kegembiraan atau penekanan atas sesuatu </item>
+        <item> Ekspresi terkejut, kaget atau khawatir </item>
+        <item> Digunakan ketika seseorang ingat apa yang ingin dia katakan </item>
+        <item> Ungkapan setuju, bisa diterima, mengerti atau siap bertindak; Untuk menunjukkan sesuatu atau seseorang cukup baik, tidak terlalu buruk; Untuk memberi jeda di pertengahan kalimat </item>
+        <item> Digunakan ketika seseorang terkejut atau gembira akan sesuatu </item>
+        <item> Ekspresi terkejut, senang, setuju, tidak setuju atau sakit </item>
+        <item> Ekspresi terkejut atau merasa bersalah atas kesalahan atau kelalaian kecil </item>
+        <item> Digunakan untuk mengekspresikan sakit fisik yang terasa tiba-tiba; Untuk merespon hal tidak baik yang dikatakan orang </item>
+        <item> Digunakan untuk mengekspresikan sakit fisik yang terasa tiba-tiba </item>
+        <item> Digunakan ketika kamu senang karena sesuatu yang sulit atau berbahaya telah dilewati atau tidak jadi terjadi, atau ketika kamu lelah atau kepanasan </item>
+        <item> Untuk meminta dengan lebih sopan; Untuk memaksa; Untuk menarik perhatian, biasanya oleh anak-anak kepada yang lebih tua; Untuk menerima sesuatu dengan lebih sopan atau antusias </item>
+        <item> Menunjukkan kemunculan sesuatu atau seseorang secara tiba-tiba </item>
+        <item> Digunakan untuk menarik perhatian seseorang tanpa membuat orang di sekelilingnya menyadari </item>
+        <item> Digunakan untuk meminta orang untuk diam atau tidak berisik </item>
+        <item> Ungkapan anak kecil atau mengusir binatang </item>
+        <item> Ekspresi kesopanan, kerendahan hati, rasa malu, tidak setuju atau marah </item>
+        <item> Digunakan untuk mengekspresikan rasa jijik atau muak yang teramat sangat </item>
+        <item> Digunakan ketika sedang memikirkan kalimat yang akan diucapkan selanjutnya </item>
+        <item> Digunakan untuk menunjukkan persetujuan atau pemahaman mengenai apa yang sedang dibicarakan </item>
+        <item> Digunakan ketika seseorang menyadari ia telah melakukan kesalahan </item>
+        <item> Digunakan untuk merespon dengan jawaban negatif </item>
+        <item> Digunakan ketika seseorang berhenti sesaat di tengah pembicaraan karena sedang memikirkan apa yang akan dikatakan selanjutnya </item>
+        <item> Digunakan untuk menyambut seseorang yang baru saja tiba </item>
+        <item> Digunakan untuk memulai pembicaraan, seringkali untuk menunjukkan keterkejutan, keraguan, sedikit ketidaksetujuan atau kemarahan, atau untuk melanjutkan cerita </item>
+        <item> Digunakan ketika kamu senang karena sesuatu yang sulit atau berbahaya telah dilewati atau tidak jadi terjadi, atau ketika kamu lelah atau kepanasan </item>
+        <item> Digunakan untuk menyuruh kuda untuk berhenti; Untuk meminta seseorang untuk berhenti melakukan sesuatu atau melakukannya dengan lebih perlahan </item>
+        <item> Digunakan untuk menunjukkan keterkejutan atau terkadang kesenangan </item>
+        <item> Digunakan ketika seseorang tidak percaya apa yang orang lain katakan </item>
+        <item> Digunakan untuk mengekspresikan kegembiraan, kesenangan, dan kepuasan yang luar biasa </item>
+        <item> Digunakan untuk menarik perhatian seseorang </item>
+        <item> Ungkapan rasa jijik </item>
+        <item> Menunjukkan sesuatu yang enak atau menarik </item>
+    </string-array>
+    <string-array name="name_vocab8">
+        <item> Almond </item>
+        <item> Apple </item>
+        <item> Avocado </item>
+        <item> Banana </item>
+        <item> Bean </item>
+        <item> Bean sprout </item>
+        <item> Broccoli </item>
+        <item> Cabbage </item>
+        <item> Canadlenut </item>
+        <item> Carrot </item>
+        <item> Cassava </item>
+        <item> Celery </item>
+        <item> Cherry </item>
+        <item> Chili </item>
+        <item> Coconut </item>
+        <item> Cucumber </item>
+        <item> Dates </item>
+        <item> Durian </item>
+        <item> Eggplant </item>
+        <item> Garlic </item>
+        <item> Ginger </item>
+        <item> Grape </item>
+        <item> Green peas </item>
+        <item> Guava </item>
+        <item> Jackfruit </item>
+        <item> Jicama </item>
+        <item> Kiwi </item>
+        <item> Leek </item>
+        <item> Lemon </item>
+        <item> Lemongrass </item>
+        <item> Lettuce </item>
+        <item> Lime </item>
+        <item> Long bean </item>
+        <item> Lychee </item>
+        <item> Mango </item>
+        <item> Mangosteen </item>
+        <item> Melon </item>
+        <item> Mustard </item>
+        <item> Olive </item>
+        <item> Onion </item>
+        <item> Orange </item>
+        <item> Pea </item>
+        <item> Peach </item>
+        <item> Peanut </item>
+        <item> Pear </item>
+        <item> Pineapple </item>
+        <item> Pomegranate </item>
+        <item> Passion fruit </item>
+        <item> Potato </item>
+        <item> Pumpkin </item>
+        <item> Radish </item>
+        <item> Rambutan </item>
+        <item> Sawo </item>
+        <item> Soursop </item>
+        <item> Spinach </item>
+        <item> Squash </item>
+        <item> Star fruit </item>
+        <item> Strawberry </item>
+        <item> Sweet potatoes </item>
+        <item> Tomato </item>
+        <item> Turmeric </item>
+        <item> Watermelon </item>
+    </string-array>
+    <string-array name="description_vocab8">
+        <item> Kenari </item>
+        <item> Apel </item>
+        <item> Alpokat </item>
+        <item> Pisang </item>
+        <item> Kacang buncis </item>
+        <item> Toge </item>
+        <item> Kobis/Blumkol </item>
+        <item> Kol/Kubis </item>
+        <item> Kemiri </item>
+        <item> Wortel </item>
+        <item> Singkong </item>
+        <item> Seledri </item>
+        <item> Ceri </item>
+        <item> Cabai </item>
+        <item> Kelapa </item>
+        <item> Ketimun </item>
+        <item> Kurma </item>
+        <item> Durian </item>
+        <item> Terong </item>
+        <item> Bawang putih </item>
+        <item> Jahe </item>
+        <item> Anggur </item>
+        <item> Kacang hijau </item>
+        <item> Jambu biji </item>
+        <item> Nangka </item>
+        <item> Bengkuang </item>
+        <item> Kiwi </item>
+        <item> Bawang perai </item>
+        <item> Lemon </item>
+        <item> Serai </item>
+        <item> Selada </item>
+        <item> Jeruk nipis </item>
+        <item> Kacang panjang </item>
+        <item> Leci </item>
+        <item> Mangga </item>
+        <item> Manggis </item>
+        <item> Melon </item>
+        <item> Sawi </item>
+        <item> Zaitun </item>
+        <item> Bawang merah </item>
+        <item> Jeruk </item>
+        <item> Kacang polong </item>
+        <item> Persik </item>
+        <item> Kacang tanah </item>
+        <item> Pir </item>
+        <item> Nanas </item>
+        <item> Delima </item>
+        <item> Markisa </item>
+        <item> Kentang </item>
+        <item> Labu </item>
+        <item> Lobak </item>
+        <item> Rambutan </item>
+        <item> Sawo </item>
+        <item> Sirsak </item>
+        <item> Bayam </item>
+        <item> Labu </item>
+        <item> Belimbing </item>
+        <item> Stroberi </item>
+        <item> Ubi </item>
+        <item> Tomat </item>
+        <item> Kunyit </item>
+        <item> Semangka </item>
+    </string-array>
+    <string-array name="name_vocab9">
+        <item> Ant </item>
+        <item> Badger </item>
+        <item> Bat </item>
+        <item> Bear </item>
+        <item> Bee </item>
+        <item> Beetle </item>
+        <item> Byson </item>
+        <item> Buffalo </item>
+        <item> Bull </item>
+        <item> Butterfly </item>
+        <item> Camel </item>
+        <item> Canary </item>
+        <item> Cassowary </item>
+        <item> Cat </item>
+        <item> Catfish </item>
+        <item> Chameleon </item>
+        <item> Chicken </item>
+        <item> Chimpanzee </item>
+        <item> Chipmunk </item>
+        <item> Cock </item>
+        <item> Cockatoo </item>
+        <item> Cow </item>
+        <item> Crab </item>
+        <item> Crane </item>
+        <item> Crocodile </item>
+        <item> Curcus </item>
+        <item> Deer </item>
+        <item> Dog </item>
+        <item> Dolphin </item>
+        <item> Donkey </item>
+        <item> Dove </item>
+        <item> Dragonfly </item>
+        <item> Duck </item>
+        <item> Eagle </item>
+        <item> Elephant </item>
+        <item> Fish </item>
+        <item> Fox </item>
+        <item> Frog </item>
+        <item> Giraffe </item>
+        <item> Goat </item>
+        <item> Goldfish </item>
+        <item> Goose </item>
+        <item> Gorilla </item>
+        <item> Grasshopper </item>
+        <item> Grouse </item>
+        <item> Hedgehog </item>
+        <item> Hen </item>
+        <item> Hippopotamus </item>
+        <item> Horse </item>
+        <item> Kangaroo </item>
+        <item> Lion </item>
+        <item> Lobster </item>
+        <item> Monkey </item>
+        <item> Mosquito </item>
+        <item> Mouse </item>
+        <item> Octopus </item>
+        <item> Ostrich </item>
+        <item> Otter </item>
+        <item> Owl </item>
+        <item> Panda </item>
+        <item> Parrot </item>
+        <item> Peacock </item>
+        <item> Penguin </item>
+        <item> Pig </item>
+        <item> Pigeon </item>
+        <item> Polar bear </item>
+        <item> Quail </item>
+        <item> Rabbit </item>
+        <item> Raven </item>
+        <item> Rhinoceros </item>
+        <item> Scorpion </item>
+        <item> Seahorse </item>
+        <item> Seal </item>
+        <item> Shark </item>
+        <item> Sheep </item>
+        <item> Shrimp </item>
+        <item> Snail </item>
+        <item> Snake </item>
+        <item> Spider </item>
+        <item> Squid </item>
+        <item> Squirrel </item>
+        <item> Starfish </item>
+        <item> Tiger </item>
+        <item> Turkey </item>
+        <item> Turtle </item>
+        <item> Wasp </item>
+        <item> Weasel </item>
+        <item> Wolf </item>
+        <item> Worm </item>
+        <item> Zebra </item>
+    </string-array>
+    <string-array name="description_vocab9">
+        <item> Semut </item>
+        <item> Luak </item>
+        <item> Kelelawar </item>
+        <item> Beruang </item>
+        <item> Lebah </item>
+        <item> Kumbang </item>
+        <item> Bosin </item>
+        <item> Kerbau </item>
+        <item> Banteng </item>
+        <item> Kupu-kupu </item>
+        <item> Unta </item>
+        <item> Kenari </item>
+        <item> Kasuari </item>
+        <item> Kucing </item>
+        <item> Ikan lele </item>
+        <item> Bunglon </item>
+        <item> Ayam </item>
+        <item> Simpanse </item>
+        <item> Tupai tanah </item>
+        <item> Ayam jantan </item>
+        <item> Kakatua </item>
+        <item> Sapi </item>
+        <item> Kepiting </item>
+        <item> Bangau </item>
+        <item> Buaya </item>
+        <item> Kuskus </item>
+        <item> Rusa </item>
+        <item> Anjing </item>
+        <item> Lumba-lumba </item>
+        <item> Keledai </item>
+        <item> Merpati (burung dara) </item>
+        <item> Capung </item>
+        <item> Bebek </item>
+        <item> Elang </item>
+        <item> Gajah </item>
+        <item> Ikan </item>
+        <item> Rubah </item>
+        <item> Katak </item>
+        <item> Jerapah </item>
+        <item> Kambing </item>
+        <item> Ikan mas </item>
+        <item> Angsa </item>
+        <item> Gorila </item>
+        <item> Belalang </item>
+        <item> Belilbis </item>
+        <item> Landak </item>
+        <item> Ayam betina </item>
+        <item> Kuda nil </item>
+        <item> Kuda </item>
+        <item> Kanguru </item>
+        <item> Singa </item>
+        <item> Lobster </item>
+        <item> Monyet </item>
+        <item> Nyamuk </item>
+        <item> Tikus </item>
+        <item> Gurita </item>
+        <item> Burung unta </item>
+        <item> Berang-berang </item>
+        <item> Burung hantu </item>
+        <item> Panda </item>
+        <item> Beo </item>
+        <item> Merak </item>
+        <item> Penguin </item>
+        <item> Babi </item>
+        <item> Merpati </item>
+        <item> Beruang kutub </item>
+        <item> Puyuh </item>
+        <item> Kelinci </item>
+        <item> Gagak </item>
+        <item> Badak </item>
+        <item> Kalajengking </item>
+        <item> Kuda laut </item>
+        <item> Anjing laut </item>
+        <item> Ikan hiu </item>
+        <item> Domba </item>
+        <item> Udang </item>
+        <item> Siput (keong) </item>
+        <item> Ular </item>
+        <item> Laba-laba </item>
+        <item> Cumi-cumi </item>
+        <item> Tupai </item>
+        <item> Bintang laut </item>
+        <item> Harimau </item>
+        <item> Kalkun </item>
+        <item> Kura-kura </item>
+        <item> Tawon </item>
+        <item> Musang </item>
+        <item> Serigala </item>
+        <item> Cacing </item>
+        <item> Zebra </item>
+    </string-array>
+    <string-array name="name_vocab10">
+        <item> Accountant </item>
+        <item> Announcer </item>
+        <item> Architect </item>
+        <item> Athlete </item>
+        <item> Baker </item>
+        <item> Barber </item>
+        <item> Chef </item>
+        <item> Clerk </item>
+        <item> Coach </item>
+        <item> Comedian </item>
+        <item> Consultant </item>
+        <item> Dancer </item>
+        <item> Dentist </item>
+        <item> Designer </item>
+        <item> Detective </item>
+        <item> Doctor </item>
+        <item> Driver </item>
+        <item> Engineer </item>
+        <item> Farmer </item>
+        <item> Firefighter </item>
+        <item> Fisherman </item>
+        <item> Gardener </item>
+        <item> Headmaster </item>
+        <item> Housewife </item>
+        <item> Investor </item>
+        <item> Journalist </item>
+        <item> Judge </item>
+        <item> Labor </item>
+        <item> Lawyer </item>
+        <item> Lecturer </item>
+        <item> Librarian </item>
+        <item> Magician </item>
+        <item> Mechanic </item>
+        <item> Musician </item>
+        <item> Nurse </item>
+        <item> Painter </item>
+        <item> Photographer </item>
+        <item> Pilot </item>
+        <item> Policeman </item>
+        <item> Postman </item>
+        <item> Receptionist </item>
+        <item> Salesman </item>
+        <item> Self-employed </item>
+        <item> Tailor </item>
+        <item> Teacher </item>
+    </string-array>
+    <string-array name="description_vocab10">
+        <item> Akuntan </item>
+        <item> Penyiar </item>
+        <item> Arsitek </item>
+        <item> Atlit </item>
+        <item> Tukang roti </item>
+        <item> Tukang cukur </item>
+        <item> Koki </item>
+        <item> Pegawai </item>
+        <item> Pelatih </item>
+        <item> Pelawak </item>
+        <item> Konsultan </item>
+        <item> Penari </item>
+        <item> Dokter gigi </item>
+        <item> Perancang </item>
+        <item> Detektif </item>
+        <item> Dokter </item>
+        <item> Sopir </item>
+        <item> Insinyur </item>
+        <item> Petani </item>
+        <item> Pemadam kebakaran </item>
+        <item> Nelayan </item>
+        <item> Tukang kebun </item>
+        <item> Kepala sekolah </item>
+        <item> Ibu rumah tangga </item>
+        <item> Penanam modal </item>
+        <item> Wartawan </item>
+        <item> Hakim </item>
+        <item> Buruh </item>
+        <item> Pengacara </item>
+        <item> Dosen </item>
+        <item> Pustakawan </item>
+        <item> Pesulap </item>
+        <item> Montir </item>
+        <item> Musisi </item>
+        <item> Perawat </item>
+        <item> Pelukis </item>
+        <item> Fotografer </item>
+        <item> Pilot </item>
+        <item> Polisi </item>
+        <item> Tukang pos </item>
+        <item> Penerima tamu </item>
+        <item> Penjual </item>
+        <item> Wiraswasta </item>
+        <item> Penjahit </item>
+        <item> Guru </item>
+    </string-array>
+    <string-array name="name_vocab11">
+        <item> Ageless </item>
+        <item> Comely </item>
+        <item> Chilly </item>
+        <item> Careless </item>
+        <item> Colorless </item>
+        <item> Countless </item>
+        <item> Clueless </item>
+        <item> Doubtless </item>
+        <item> Endless </item>
+        <item> Fearless </item>
+        <item> Friendly </item>
+        <item> Friendless </item>
+        <item> Homely </item>
+        <item> Helpless </item>
+        <item> Homeless </item>
+        <item> Hopeless </item>
+        <item> Lovely </item>
+        <item> Lonely </item>
+        <item> Lifeless </item>
+        <item> Limitless </item>
+        <item> Manly </item>
+        <item> Nevertheless </item>
+        <item> Restless </item>
+        <item> Senseless </item>
+        <item> Sightless </item>
+        <item> Shapely </item>
+        <item> Silly </item>
+        <item> Tasteless </item>
+        <item> Ugly </item>
+        <item> Useless </item>
+    </string-array>
+    <string-array name="description_vocab11">
+        <item> Awet muda </item>
+        <item> Menawan </item>
+        <item> Dingin </item>
+        <item> Ceroboh </item>
+        <item> Tanpa warna </item>
+        <item> Tak terhitung </item>
+        <item> Mengerti </item>
+        <item> Pasti </item>
+        <item> Tak berujung </item>
+        <item> Tak kenal takut </item>
+        <item> Ramah </item>
+        <item> Tak punya teman </item>
+        <item> Sederhana </item>
+        <item> Tak berdaya </item>
+        <item> Tuna wisma </item>
+        <item> Putus asa </item>
+        <item> Menyenangkan </item>
+        <item> Kesepian </item>
+        <item> Tak bernyawa </item>
+        <item> Tak terbatas </item>
+        <item> Gagah </item>
+        <item> Meskipun demikian </item>
+        <item> Gelisah </item>
+        <item> Bodoh </item>
+        <item> Tuna terta </item>
+        <item> Rupawan </item>
+        <item> Bodoh </item>
+        <item> Hambar </item>
+        <item> Jelek </item>
+        <item> Tak berguna </item>
+    </string-array>
+    <string-array name="name_vocab12">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+        <item> 7 </item>
+        <item> 8 </item>
+        <item> 9 </item>
+        <item> 10 </item>
+        <item> 11 </item>
+        <item> 12 </item>
+        <item> 13 </item>
+        <item> 14 </item>
+        <item> 15 </item>
+        <item> 16 </item>
+        <item> 17 </item>
+        <item> 18 </item>
+        <item> 19 </item>
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+        <item> 40 </item>
+        <item> 50 </item>
+        <item> 60 </item>
+        <item> 70 </item>
+        <item> 80 </item>
+        <item> 90 </item>
+        <item> 100 </item>
+        <item> 101 </item>
+        <item> 102 </item>
+        <item> 103 </item>
+        <item> 1,000 </item>
+        <item> 1,000,000 </item>
+        <item> 1,000,000,000 </item>
+    </string-array>
+    <string-array name="description_vocab12">
+        <item> One </item>
+        <item> Two </item>
+        <item> Three </item>
+        <item> Four </item>
+        <item> Five </item>
+        <item> Six </item>
+        <item> Seven </item>
+        <item> Eight </item>
+        <item> Nine </item>
+        <item> Ten </item>
+        <item> Eleven </item>
+        <item> Twelve </item>
+        <item> Thirteen </item>
+        <item> Fourteen </item>
+        <item> Fifteen </item>
+        <item> Sixteen </item>
+        <item> Seventeen </item>
+        <item> Eighteen </item>
+        <item> Nineteen </item>
+        <item> Twenty </item>
+        <item> Twenty one </item>
+        <item> Twenty two </item>
+        <item> Twenty three </item>
+        <item> Twenty four </item>
+        <item> Twenty five </item>
+        <item> Twenty six </item>
+        <item> Twenty seven </item>
+        <item> Twenty eight </item>
+        <item> Twenty nine </item>
+        <item> Thirty </item>
+        <item> Forty </item>
+        <item> Fifty </item>
+        <item> Sixty </item>
+        <item> Seventy </item>
+        <item> Eighty </item>
+        <item> Ninety </item>
+        <item> One hundred </item>
+        <item> One hundred and one </item>
+        <item> One hundred and two </item>
+        <item> One hundred and three </item>
+        <item> One thousand </item>
+        <item> One million </item>
+        <item> One billion </item>
+    </string-array>
+    <string-array name="name_vocab13">
+        <item> Sunny </item>
+        <item> Rainy </item>
+        <item> Snowy </item>
+        <item> Cloudy </item>
+        <item> Rainy and snowy </item>
+        <item> Thunder </item>
+        <item> Thunder storm </item>
+        <item> Overcast </item>
+        <item> Windy </item>
+        <item> Stormy </item>
+        <item> Rainbow </item>
+        <item> Foggy </item>
+    </string-array>
+    <string-array name="description_vocab13">
+        <item> Cerah </item>
+        <item> Hujan </item>
+        <item> Bersalju </item>
+        <item> Berawan </item>
+        <item> Hujan dan Bersalju </item>
+        <item> Guntur </item>
+        <item> Hujan Badai </item>
+        <item> Mendung </item>
+        <item> Berangin </item>
+        <item> Badai </item>
+        <item> Pelangi </item>
+        <item> Berkabut </item>
+    </string-array>
+    <string-array name="name_vocab14">
+        <item> Ankle </item>
+        <item> Armpit </item>
+        <item> Arm </item>
+        <item> Beard </item>
+        <item> Chin </item>
+        <item> Cheek </item>
+        <item> Chest </item>
+        <item> Calf </item>
+        <item> Eyebrow </item>
+        <item> Eye </item>
+        <item> Eyelid </item>
+        <item> Eyelash </item>
+        <item> Ear </item>
+        <item> Elbow </item>
+        <item> Forehead </item>
+        <item> Face </item>
+        <item> Fore finger </item>
+        <item> Hair </item>
+        <item> Head </item>
+        <item> Hand </item>
+        <item> Heel </item>
+        <item> Instep </item>
+        <item> Leg </item>
+        <item> Lip </item>
+        <item> Little Finger </item>
+        <item> Knee </item>
+        <item> Mustache </item>
+        <item> Mouth </item>
+        <item> Middle fingge </item>
+        <item> Nose </item>
+        <item> Neck </item>
+        <item> Nostril </item>
+        <item> Nail </item>
+        <item> Palm </item>
+        <item> Ring finger </item>
+        <item> Shoulder </item>
+        <item> Stomach </item>
+        <item> Skin </item>
+        <item> Sole </item>
+        <item> Thumb </item>
+        <item> Thigh </item>
+        <item> Throat </item>
+        <item> Tooth </item>
+        <item> Tongue </item>
+        <item> Toes </item>
+        <item> Wrist </item>
+    </string-array>
+    <string-array name="description_vocab14">
+        <item> Mata kaki </item>
+        <item> Ketiak </item>
+        <item> Lengan, lengan bawah </item>
+        <item> Jambang/Janggut </item>
+        <item> Dagu </item>
+        <item> Pipi </item>
+        <item> Dada </item>
+        <item> Betis </item>
+        <item> Alis mata </item>
+        <item> Mata </item>
+        <item> Kelopak mata </item>
+        <item> Bulu mata </item>
+        <item> Telinga </item>
+        <item> Siku </item>
+        <item> Dahi </item>
+        <item> Wajah </item>
+        <item> Jari telunjuk </item>
+        <item> Rambut </item>
+        <item> Kepala </item>
+        <item> Tangan </item>
+        <item> Tumit </item>
+        <item> Kura-kura kaki </item>
+        <item> Kaki </item>
+        <item> Bibir </item>
+        <item> Jari kelingking </item>
+        <item> Lutut </item>
+        <item> Kumis </item>
+        <item> Mulut </item>
+        <item> Jari tengah </item>
+        <item> Hidung </item>
+        <item> Leher </item>
+        <item> Lubang hidung </item>
+        <item> Kuku </item>
+        <item> Telapak tangan </item>
+        <item> Jari manis </item>
+        <item> Bahu </item>
+        <item> Perut </item>
+        <item> Kulit </item>
+        <item> Telapak kaki </item>
+        <item> Ibu jari </item>
+        <item> Paha </item>
+        <item> Tenggorokan </item>
+        <item> Gigi </item>
+        <item> Lidah </item>
+        <item> Jari kaki </item>
+        <item> Pergelangan </item>
+    </string-array>
+    <string-array name="name_vocab15">
+        <item> White </item>
+        <item> Black </item>
+        <item> Yellow </item>
+        <item> Red </item>
+        <item> Purple </item>
+        <item> Green </item>
+        <item> Blue </item>
+        <item> Orange </item>
+        <item> Brown </item>
+        <item> Grey </item>
+        <item> Pink </item>
+        <item> Dark red </item>
+        <item> Dark blue </item>
+        <item> Dark grey </item>
+        <item> Dark yellow </item>
+        <item> Dark green </item>
+        <item> Dark brown </item>
+        <item> Dark purple </item>
+        <item> Light blue </item>
+        <item> Light grey </item>
+        <item> Light yellow </item>
+        <item> Light green </item>
+        <item> Light brown </item>
+        <item> Light purple </item>
+        <item> Magenta </item>
+        <item> Indigo </item>
+        <item> Azure </item>
+        <item> Cyan </item>
+        <item> Crimson </item>
+        <item> Amber </item>
+        <item> Apricot </item>
+        <item> Gold </item>
+        <item> Mustard </item>
+        <item> Navy blue </item>
+        <item> Aqua </item>
+        <item> Beige </item>
+        <item> Burgundy </item>
+        <item> Maroon </item>
+        <item> Carmine </item>
+        <item> Charcoal </item>
+        <item> Salmon </item>
+        <item> Denim </item>
+        <item> Ivory </item>
+        <item> Fuchsia </item>
+        <item> Lavender </item>
+        <item> Lilac </item>
+        <item> Mauve </item>
+        <item> Peach </item>
+        <item> Silver </item>
+        <item> Scarlet </item>
+        <item> Turquoise </item>
+        <item> Emerald </item>
+        <item> Cerise </item>
+        <item> Cinnamon </item>
+        <item> Cream </item>
+        <item> Coral </item>
+        <item> Ebony </item>
+        <item> Jade </item>
+        <item> Lime </item>
+        <item> Puce </item>
+    </string-array>
+    <string-array name="description_vocab15">
+        <item> Putih </item>
+        <item> Hitam </item>
+        <item> Kuning </item>
+        <item> Merah </item>
+        <item> Ungu </item>
+        <item> Hijau </item>
+        <item> Biru </item>
+        <item> Oranye </item>
+        <item> Cokelat </item>
+        <item> Abu-abu </item>
+        <item> Merah muda </item>
+        <item> Merah tua </item>
+        <item> Biru tua </item>
+        <item> Abu-abu tua </item>
+        <item> Kuning tua </item>
+        <item> Hijau tua </item>
+        <item> Cokelat tua </item>
+        <item> Ungu tua </item>
+        <item> Biru muda </item>
+        <item> Abu-abu muda </item>
+        <item> Kuning muda </item>
+        <item> Hijau muda </item>
+        <item> Cokelat muda </item>
+        <item> Ungu muda </item>
+        <item> Magenta </item>
+        <item> Nila </item>
+        <item> Biru langit </item>
+        <item> Biru terang </item>
+        <item> Merah tua terang </item>
+        <item> Kuning sawo </item>
+        <item> Kuning aprikot </item>
+        <item> Emas </item>
+        <item> Kuning pucat </item>
+        <item> Biru navy </item>
+        <item> Merah muda </item>
+        <item> Biru air </item>
+        <item> Abu-abu kecokelatan </item>
+        <item> Ungu kemerahan gelap </item>
+        <item> Merah marun </item>
+        <item> Merah terang </item>
+        <item> Warna arang </item>
+        <item> Merah muda kekuningan </item>
+        <item> Biru agak gelap </item>
+        <item> Putih gading </item>
+        <item> Merah muda terang </item>
+        <item> Ungu muda </item>
+        <item> Merah muda keunguan pudar </item>
+        <item> Ungu lembayung </item>
+        <item> Warna peach </item>
+        <item> Perak </item>
+        <item> Merah padam </item>
+        <item> Biru kehijauan </item>
+        <item> Hijau zamrud </item>
+        <item> Jingga muda </item>
+        <item> Cokelat dengan kesan merah </item>
+        <item> Krem </item>
+        <item> Merah kekuning-kuningan </item>
+        <item> Hitam gelap </item>
+        <item> Hijau lumut </item>
+        <item> Hijau tua </item>
+        <item> Ungu kecokelatan </item>
+    </string-array>
     <string-array name="items_name1">
         <item> Hafalan 1 </item>
         <item> Hafalan 2 </item>
@@ -104,6 +2041,222 @@
         <item> Belajar Bahasa Inggris </item>
         <item> Belajar Bahasa Inggris </item>
     </string-array>
+    <string-array name="name_hafal">
+        <item> Hello </item>
+        <item> Hi </item>
+        <item> Good morning </item>
+        <item> Good fternoon </item>
+        <item> Good evening </item>
+        <item> Good night </item>
+        <item> How are you ? </item>
+        <item> How are you doing ? </item>
+        <item> What is up ? </item>
+        <item> How do you do ? </item>
+        <item> How is it going ? </item>
+        <item> What is good ? </item>
+        <item> What is happening ? </item>
+        <item> It has been a long time </item>
+        <item> How long has it been ? </item>
+        <item> It is been too long </item>
+        <item> It is always pleasure to see you </item>
+        <item> Long time noo see </item>
+        <item> Where have you been hiding ? </item>
+    </string-array>
+    <string-array name="description_hafal">
+        <item> Halo </item>
+        <item> Hai </item>
+        <item> Selamat pagi </item>
+        <item> Selamat siang </item>
+        <item> Selamat malam </item>
+        <item> Selamat malam (lebih lanjut) </item>
+        <item> Apa kabarmu ? </item>
+        <item> Apa kabarmu ? </item>
+        <item> Apa kabar ? </item>
+        <item> Apa kabarmu ? </item>
+        <item> Bagaimana kabarmu ? </item>
+        <item> Apa kabar ? </item>
+        <item> Apa yang terjadi ? </item>
+        <item> Sudah lama sekali tidak bertemu </item>
+        <item> Sudah berapa lama kita bertemu </item>
+        <item> Sudah sangat lama tidak bertemu </item>
+        <item> Selalu menyenangkan dapat bertemu denganmu </item>
+        <item> Sudah lama tidak berjumpa </item>
+        <item> Dimana kamu bersembunyi selaman ini ? </item>
+    </string-array>
+    <string-array name="name_hafal1">
+        <item> Excellent </item>
+        <item> Nice </item>
+        <item> Awesome </item>
+        <item> Outstanding </item>
+        <item> Perfect </item>
+        <item> Well done </item>
+        <item> Impressive </item>
+        <item> Good work </item>
+        <item> Fantastic </item>
+        <item> Great </item>
+        <item> You did it ! </item>
+        <item> Marvelous </item>
+        <item> I have never seen anyone get it done that quickly </item>
+        <item> I knew you could do it ! </item>
+        <item> I am so proud of you </item>
+        <item> Much better </item>
+        <item> You make it look so easy </item>
+        <item> How come I never knew you could ... so well </item>
+        <item> You did better than I could have done it </item>
+        <item> Good job </item>
+    </string-array>
+    <string-array name="description_hafal1">
+        <item> Luar biasa </item>
+        <item> Bagus </item>
+        <item> Mengagumkan </item>
+        <item> Luar biasa </item>
+        <item> Sempurna </item>
+        <item> Kerja bagus </item>
+        <item> Menarik </item>
+        <item> Kerja yang bagus </item>
+        <item> Fantastik </item>
+        <item> Hebat </item>
+        <item> Anda berhasil ! </item>
+        <item> Menakjubkan </item>
+        <item> Saya belum pernah melihat orang lain menyelesaikannya secepat itu </item>
+        <item> Saya tahu anda bisa melakukannya ! </item>
+        <item> Saya bangga dengan anda </item>
+        <item> Jauh lebih baik </item>
+        <item> Anda membuatnya terlihat mudah </item>
+        <item> Saya tidak mengira anda bisa melakukannya ... dengan baik ? </item>
+        <item> Anda melakukan lebih baik dari apa yang saya bisa lakukan </item>
+        <item> Kerja bagus </item>
+    </string-array>
+    <string-array name="name_hafal2">
+        <item> Let it go </item>
+        <item> Take a deep breath </item>
+        <item> Loosen up </item>
+        <item> Chew slowly </item>
+        <item> Enjoy yhe journey </item>
+        <item> Look at the big picture </item>
+        <item> Stop demanding perfection of yourself </item>
+        <item> Practice patience every day </item>
+        <item> Talk less, listen more </item>
+    </string-array>
+    <string-array name="description_hafal2">
+        <item> Biarkanlah, tidak usah ditanggapi </item>
+        <item> Ambil napas dalam-dalam </item>
+        <item> Bersikap santai </item>
+        <item> Mengunyah secara perlahan </item>
+        <item> Nikmati perjalanan anda </item>
+        <item> Lihat suatu peristiwa dari berbagai segi </item>
+        <item> Berhentilah bersikap perfeksionis terhadap diri sendiri </item>
+        <item> Berlatih untuk bersabar setiap hari </item>
+        <item> Kurang bicara dan mendengarkan lebih banyak </item>
+    </string-array>
+    <string-array name="name_hafal3">
+        <item> I am or your side </item>
+        <item> I stand by you </item>
+        <item> I am here for you </item>
+        <item> I am your biggest fan ! </item>
+        <item> I am rooting for you </item>
+        <item> I never leave you </item>
+        <item> I am with you all the way ! </item>
+        <item> I know you can do it ! </item>
+        <item> Whatever makes you happy makes me happy to </item>
+    </string-array>
+    <string-array name="description_hafal3">
+        <item> Saya disisi mu </item>
+        <item> Saya berada disamping mu </item>
+        <item> Saya disini untukmu </item>
+        <item> Saya adalah penggemar terberatmu ! </item>
+        <item> Saya hadir untukmu </item>
+        <item> Saya tidak akan pernah meninggalkan mu </item>
+        <item> Saya bersamamu sepanjang jalan ! </item>
+        <item> Saya tahu kamu bisa ! </item>
+        <item> Apa saya yang membuatmu bahagia akan membuat ku bahagia </item>
+    </string-array>
+    <string-array name="name_hafal4">
+        <item> Hang on a moment </item>
+        <item> Give us a second </item>
+        <item> Half a moment </item>
+        <item> I will be right with you </item>
+        <item> Sorry, I am a bit tied up right now </item>
+        <item> Wait and see </item>
+        <item> You will just have to be patient </item>
+        <item> Give me a chance </item>
+        <item> Do not be so impatient </item>
+        <item> We wish to apologise for the delay to </item>
+        <item> Just wait a minute </item>
+        <item> Could you wait a moment </item>
+        <item> I need to do it first, please wait </item>
+        <item> I will be right back </item>
+    </string-array>
+    <string-array name="description_hafal4">
+        <item> Tunggu sebentar </item>
+        <item> Beri kami waktu </item>
+        <item> Sebentar </item>
+        <item> Saya akan segera bersama anda </item>
+        <item> Maaf, saya agak kerepotan sekarang </item>
+        <item> Tunggu dan lihat saja </item>
+        <item> Anda hanya harus sabar sebentar </item>
+        <item> Beri aku kesempatan </item>
+        <item> Jangan menjadi tidak sabar seperti itu </item>
+        <item> Kami mohon maaf atas tertundanya </item>
+        <item> Tunggu sebentar saja </item>
+        <item> Dapatkan anda menunggu sebentar </item>
+        <item> Saya harus mengerjakan ini dulu, tolong tunggu </item>
+        <item> Saya akan segera kembali </item>
+    </string-array>
+    <string-array name="name_hafal5">
+        <item> Damn it ! </item>
+        <item> Goddamn ! </item>
+        <item> Keep you nose out of my business ! </item>
+        <item> Go away ! I want to be left alone ! </item>
+        <item> Keep your mouth out of my business ! </item>
+        <item> Do you wanna die ? (wanna die ?) </item>
+        <item> Shut up !, and go away ! </item>
+    </string-array>
+    <string-array name="description_hafal5">
+        <item> Sial ! </item>
+        <item> Sialan ! </item>
+        <item> Jauhkan batang hidungmu ! </item>
+        <item> Pergi jauh ! Tinggalkan aku sendirian ! </item>
+        <item>Jaga mulutmu ! </item>
+        <item> Kamu mau mati ? (mau mati ?) </item>
+        <item> Diam ! dan pergi ! </item>
+    </string-array>
+    <string-array name="name_hafal6">
+        <item> I am terribly sorry </item>
+        <item> I did not mean to ... </item>
+        <item> It is all my fault </item>
+        <item> Please do not be mad at me </item>
+        <item> I hope you can forgive me </item>
+        <item> Please forgive me </item>
+        <item> I apoligize for ... </item>
+        <item> I did like to apologize for ... </item>
+        <item> Please accept my apologies </item>
+        <item> It is okay </item>
+        <item> It is no problem at all </item>
+        <item> Do not worry about it </item>
+        <item> Do not take it to heart </item>
+        <item> Forget it </item>
+        <item> Never mind </item>
+        <item> Not a big deal </item>
+    </string-array>
+    <string-array name="description_hafal6">
+        <item> Aku sungguh menyesal </item>
+        <item> Aku tak bermaksud ... </item>
+        <item> Semua ini kesalahanku </item>
+        <item> Tolong jangan marah padaku </item>
+        <item> Kuharao kamu mau memaafkanku </item>
+        <item> Mohon maafkan aku </item>
+        <item> Aku minta maaf untuk ... </item>
+        <item> Aku ingin minta maaf akan ... </item>
+        <item> Mohon terima permintaan maafku </item>
+        <item> Tak apa-apa </item>
+        <item> Bukan masalah sama sekali </item>
+        <item> Jangan khawatir tentang hal itu </item>
+        <item> Tak usah dimasukkan ke hati </item>
+        <item> Lupakan saja </item>
+        <item> Tak usah dipikirkan </item>
+        <item> Bukan masalah besar </item>
+    </string-array>
     <string-array name="items_name2">
         <item> Pronoun </item>
         <item> Noun </item>
@@ -136,38 +2289,6 @@
         <item> Determiners </item>
         <item> Conditional Sentences </item>
     </string-array>
-    <string-array name="items_description2">
-        <item> Grammar Bahasa Inggris  </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-        <item> Grammar Bahasa Inggris </item>
-    </string-array>
     <string-array name="items_name3">
         <item> Simple Present </item>
         <item> Present Continous </item>
@@ -186,22 +2307,102 @@
         <item> Past Future Perfect </item>
         <item> Past Future Perfect Continous </item>
     </string-array>
-    <string-array name="items_description3">
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
-        <item> Belajar Tenses </item>
+    <string-array name="items_name4">
+        <item> Simple Present (20 Soal) </item>
+        <item> Present Continous (20 Soal) </item>
+        <item> Present Perfect (20 Soal) </item>
+        <item> Present Perfect Continous (20 Soal) </item>
+        <item> Simple Past (10 Soal) </item>
+        <item> Past Continous (10 Soal) </item>
+        <item> Past Perfect (10 Soal) </item>
+        <item> Past Perfect Continous (10 Soal) </item>
+        <item> Simple Future (10 Soal) </item>
+        <item> Future Continous (10 Soal) </item>
+        <item> Future Perfect (10 Soal) </item>
+        <item> Future Perfect Continous (10 Soal) </item>
+        <item> Simple Past Future (10 Soal) </item>
+        <item> Past Future Continous (10 Soal) </item>
+        <item> Past Future Perfect (10 Soal) </item>
+        <item> Past Future Perfect Continous (10 Soal) </item>
+        <item> Campuran 1 (50 Soal) </item>
+        <item> Campuran 2 (50 Soal) </item>
+        <item> Campuran 3 (50 Soal) </item>
+        <item> Campuran 4 (50 Soal) </item>
+        <item> Campuran 5 (50 Soal) </item>
+        <item> Campuran 6 (50 Soal) </item>
+        <item> Campuran 7 (50 Soal) </item>
+        <item> Campuran 8 (50 Soal) </item>
+        <item> Campuran 9 (50 Soal) </item>
+        <item> Campuran 10 (50 Soal) </item>
+    </string-array>
+    <string-array name="items_name5">
+        <item> Kalimat Positif Simple Present 1 (10 Soal) </item>
+        <item> Kalimat Positif Simple Present 2 (10 Soal) </item>
+        <item> Kalimat Negatif Simple Present 1 (10 Soal) </item>
+        <item> Kalimat Negatif Simple Present 2 (10 Soal) </item>
+        <item> Kalimat Negatif Simple Present 3 (10 Soal) </item>
+        <item> Kalimat Negatif Simple Present 4 (10 Soal) </item>
+        <item> Kalimat Tanya Simple Present 1 (10 Soal) </item>
+        <item> Kalimat Tanya Simple Present 2 (10 Soal) </item>
+        <item> Kalimat Positif Present Continuous 1 (10 Soal) </item>
+        <item> Kalimat Positif Present Continuous 2 (10 Soal) </item>
+        <item> Kalimat Positif Present Continuous 3 (10 Soal) </item>
+        <item> Kalimat Positif Present Continuous 4 (10 Soal) </item>
+        <item> Kalimat Negatif Present Continuous 1 (10 Soal) </item>
+        <item> Kalimat Negatif Present Continuous 2 (10 Soal) </item>
+        <item> Kalimat Tanya Present Continuous 1 (10 Soal) </item>
+        <item> Kalimat Tanya Present Continuous 2 (10 Soal) </item>
+        <item> Kalimat Positif Present Perfect (10 Soal) </item>
+        <item> Kalimat Negatif Present Perfect (10 Soal) </item>
+        <item> Kalimat Tanya Present Perfect (10 Soal) </item>
+        <item> Kalimat Positif Present Perfect Continuous (10 Soal) </item>
+        <item> Kalimat Negatif Present Perfect Continuous (10 Soal) </item>
+        <item> Kalimat Tanya Present Perfect Continuous (10 Soal) </item>
+        <item> Kalimat Positif Simple Past (10 Soal) </item>
+        <item> Kalimat Negatif Simple Past (10 Soal) </item>
+        <item> Kalimat Tanya Simple Past (10 Soal) </item>
+        <item> Kalimat Positif Past Continuous (10 Soal) </item>
+        <item> Kalimat Negatif Past Continuous (10 Soal) </item>
+        <item> Kalimat Tanya Past Continuous (10 Soal) </item>
+        <item> Kalimat Positif Past Perfect (10 Soal) </item>
+        <item> Kalimat Negatif Past Perfect (10 Soal) </item>
+        <item> Kalimat Tanya Past Perfect (10 Soal) </item>
+        <item> Kalimat Positif Simple Future (10 Soal) </item>
+        <item> Kalimat Negatif Simple Future (10 Soal) </item>
+        <item> Kalimat Tanya Simple Future (10 Soal) </item>
+    </string-array>
+    <string-array name="items_name7">
+        <item> Where Are You From ? </item>
+        <item> Do you speak English ? </item>
+        <item> What is your name ? </item>
+        <item> Are you on vacation here ? </item>
+        <item> Asking Directions </item>
+        <item> I am Hungry </item>
+        <item> At the party </item>
+        <item> Formal Gretting </item>
+        <item> Informal Greetings and Farewells </item>
+        <item> Formal Introductions </item>
+        <item> Informal Introductions </item>
+        <item> What Time Is It ? </item>
+        <item> A Telephone Call </item>
+        <item> Coincidences </item>
+        <item> Weather Report </item>
+    </string-array>
+    <string-array name="items_description7">
+        <item> Dari mana kamu berasal ? </item>
+        <item> Apakah Anda berbicara bahasa Inggris ? </item>
+        <item> Siapa namamu ? </item>
+        <item> Apakah Anda sedang berlibur disini ? </item>
+        <item> Menanyakan Arah </item>
+        <item> Saya lapar </item>
+        <item> Di pesta </item>
+        <item> Salam formal </item>
+        <item> Salam dan Perpisahan Informal </item>
+        <item> Perkenalan Formal </item>
+        <item> Perkenalan Informal </item>
+        <item> Jam berapa sekarang ? </item>
+        <item> Panggilan Telepon </item>
+        <item> Kebetulan </item>
+        <item> Laporan cuaca </item>
     </string-array>
 </resources>
