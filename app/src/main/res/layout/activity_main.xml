@@ -142,8 +142,7 @@
             android:layout_margin="10dp"
             android:adjustViewBounds="true"
             android:scaleType="fitXY"
-            android:src="@drawable/uji"
-            android:onClick="Pindah6"/>
+            android:src="@drawable/uji"/>
 
         <ImageView
             android:id="@+id/prckpn"
@@ -164,8 +163,7 @@
             android:layout_margin="10dp"
             android:adjustViewBounds="true"
             android:scaleType="fitXY"
-            android:src="@drawable/game"
-            android:onClick="Pindah8"/>
+            android:src="@drawable/game"/>
 
         </LinearLayout>
     </ScrollView>
