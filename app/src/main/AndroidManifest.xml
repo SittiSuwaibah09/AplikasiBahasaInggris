@@ -16,6 +16,134 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".TensesPastFuPerCon"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPastFuPer"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPastFuCon"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPastFuture"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesFuturePerCon"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesFuturePerfect"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesFutureContinuous"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesSimpleFuture"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPastPerCon"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPastPerfect"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPastContinuous"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesSimplePast"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPresentPerCon"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPresentPerfect"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesPresentContinuous"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
+            android:name=".TensesSimplePresent"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".TensesLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TensesLayout" />
+        </activity>
+        <activity
             android:name=".GrammarConSentence"
             android:label="Bahasa Inggris"
             android:parentActivityName=".GrammarLayout">
