@@ -16,6 +16,239 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".GrammarConSentence"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarDeterminers"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarExclamatory"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarPreferences"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarDirectInderect"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarDegreeComp"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarQuestionTag"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarPassVoice"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarInterjection"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".GrammarConjunction"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Prepositions"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".AuxiliaryVerbs"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Verb"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Adverbs"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity android:name=".ALittle" />
+        <activity
+            android:name=".MuchMany"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".SomeAny"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Quantifier"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".NounPhrase"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".There"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".ThatThose"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".ThisThese"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Demonstrative"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".HasHave"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Adjective"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Countable"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".PluralSingular"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Article"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Noun"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
+            android:name=".Pronoun"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".GrammarLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".GrammarLayout" />
+        </activity>
+        <activity
             android:name=".Hafalan32"
             android:label="Bahasa Inggris"
             android:parentActivityName=".HafalanLayout">

@@ -3194,10 +3194,10 @@
         <item> Past Future Perfect Continous </item>
     </string-array>
     <string-array name="items_name4">
-        <item> Simple Present (20 Soal) </item>
-        <item> Present Continous (20 Soal) </item>
-        <item> Present Perfect (20 Soal) </item>
-        <item> Present Perfect Continous (20 Soal) </item>
+        <item> Simple Present (10 Soal) </item>
+        <item> Present Continous (10 Soal) </item>
+        <item> Present Perfect (10 Soal) </item>
+        <item> Present Perfect Continous (10 Soal) </item>
         <item> Simple Past (10 Soal) </item>
         <item> Past Continous (10 Soal) </item>
         <item> Past Perfect (10 Soal) </item>
@@ -3210,16 +3210,16 @@
         <item> Past Future Continous (10 Soal) </item>
         <item> Past Future Perfect (10 Soal) </item>
         <item> Past Future Perfect Continous (10 Soal) </item>
-        <item> Campuran 1 (50 Soal) </item>
-        <item> Campuran 2 (50 Soal) </item>
-        <item> Campuran 3 (50 Soal) </item>
-        <item> Campuran 4 (50 Soal) </item>
-        <item> Campuran 5 (50 Soal) </item>
-        <item> Campuran 6 (50 Soal) </item>
-        <item> Campuran 7 (50 Soal) </item>
-        <item> Campuran 8 (50 Soal) </item>
-        <item> Campuran 9 (50 Soal) </item>
-        <item> Campuran 10 (50 Soal) </item>
+        <item> Campuran 1 (10 Soal) </item>
+        <item> Campuran 2 (10 Soal) </item>
+        <item> Campuran 3 (10 Soal) </item>
+        <item> Campuran 4 (10 Soal) </item>
+        <item> Campuran 5 (10 Soal) </item>
+        <item> Campuran 6 (10 Soal) </item>
+        <item> Campuran 7 (10 Soal) </item>
+        <item> Campuran 8 (10 Soal) </item>
+        <item> Campuran 9 (10 Soal) </item>
+        <item> Campuran 10 (10 Soal) </item>
     </string-array>
     <string-array name="items_name5">
         <item> Kalimat Positif Simple Present 1 (10 Soal) </item>
