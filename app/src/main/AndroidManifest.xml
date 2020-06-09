@@ -16,6 +16,62 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".PercakapanWeather"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanCoincidences"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanTelephone"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanTime"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanForIntro"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanInGre"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanInIntro"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
             android:name=".PercakapanForGre"
             android:label="Bahasa Inggris"
             android:parentActivityName=".PercakapanLayout">
