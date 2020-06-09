@@ -16,6 +16,70 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".PercakapanForGre"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanParty"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanIam"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanAsking"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanAre"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanWhat"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanDo"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
+            android:name=".PercakapanWhere"
+            android:label="Bahasa Inggris"
+            android:parentActivityName=".PercakapanLayout">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PercakapanLayout" />
+        </activity>
+        <activity
             android:name=".TensesPastFuPerCon"
             android:label="Bahasa Inggris"
             android:parentActivityName=".TensesLayout">
