@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_highest_score"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".HighestScoreActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="@drawable/border"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:text="HASIL LATIHAN"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_gravity="center"
+            android:textSize="30dp"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="center">
+            <ImageView
+                android:id="@+id/gambar"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/menang"/>
+            <TextView
+                android:text="Kamu Berhasil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/keterangan"
+                android:textSize="35dp"
+                android:layout_marginTop="30dp"
+                android:textColor="#FF0000"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/jumlah"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="Jumlah Soal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text=" : "
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+
+            <TextView
+                android:id="@+id/jawabsoal"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="10"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/benar"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="Jawaban Benar"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text=" : "
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+
+            <TextView
+                android:id="@+id/jawabbenar"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text=""
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:text="Jawaban Salah"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:textColor="#000000"
+                android:id="@+id/salah"
+                android:textSize="25dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text=" : "
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+
+            <TextView
+                android:id="@+id/jawabsalah"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text=""
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="30dp">
+            <TextView
+                android:id="@+id/nilai"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text="Nilai"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text=" : "
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+
+            <TextView
+                android:id="@+id/jawabnilai"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_vertical_margin"
+                android:text=""
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="#000000"
+                android:textSize="25dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="300dp">
+            <Button
+                android:text="Ulangi"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:id="@+id/button"
+                android:textSize="20dp"
+                android:textColor="@color/white"
+                android:background="@drawable/toko"
+                android:onClick="onClick"/>
+            <Button
+                android:text="Menu"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:id="@+id/menu"
+                android:textSize="20dp"
+                android:textColor="@color/white"
+                android:background="@drawable/play"
+                android:layout_marginLeft="60dp"
+                android:onClick="onClick1" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

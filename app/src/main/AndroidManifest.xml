@@ -36,6 +36,9 @@
         <activity android:name=".HasilUjian" />
         <activity android:name=".UjianLayout" />
         <activity android:name=".UjianActivity" />
+        <activity android:name=".QuizActivity1" />
+        <activity android:name=".HighestScoreActivity" />
+        <activity android:name=".QuizActivity" />
         <activity
             android:name=".PercakapanWeather"
             android:label="Bahasa Inggris"
