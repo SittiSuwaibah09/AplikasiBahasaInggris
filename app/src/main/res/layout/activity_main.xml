@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/drawer"
@@ -9,161 +10,163 @@
     <ScrollView
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="#EFECEC"
-        android:orientation="vertical">
-
-        <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:layout_gravity="center"
-            android:adjustViewBounds="true"
-            android:src="@drawable/logoinggris" />
-
         <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:orientation="horizontal">
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#EFECEC"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:src="@drawable/logoinggris" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Belajar "
+                    android:textColor="@color/orange"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bahasa "
+                    android:textColor="@color/green"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Inggris"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="25dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Belajar "
-                android:textColor="@color/orange"
-                android:textSize="25dp"
+                android:layout_gravity="center"
+                android:text="Bahasa Inggris Untuk Pemula"
+                android:textSize="12dp"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Bahasa "
-                android:textColor="@color/green"
-                android:textSize="25dp"
+                android:layout_gravity="center"
+                android:text="dari tingkat dasar hingga mahir berbicara bahasa inggris"
+                android:textSize="12dp"
                 android:textStyle="bold" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Inggris"
-                android:textColor="@color/colorPrimary"
-                android:textSize="25dp"
-                android:textStyle="bold" />
-        </LinearLayout>
+            <ImageView
+                android:id="@+id/vocabulary"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/vocabulary"
+                android:onClick="Pindah"/>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="Bahasa Inggris Untuk Pemula"
-            android:textSize="12dp"
-            android:textStyle="bold" />
+            <ImageView
+                android:id="@+id/hafal"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/hafal"
+                android:onClick="Pindah1"/>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="dari tingkat dasar hingga mahir berbicara bahasa inggris"
-            android:textSize="12dp"
-            android:textStyle="bold" />
+            <ImageView
+                android:id="@+id/gram"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/gram"/>
 
-        <ImageView
-            android:id="@+id/vocabulary"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/vocabulary"
-            android:onClick="Pindah"/>
+            <ImageView
+                android:id="@+id/tens"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/tens"
+                android:onClick="Pindah3"/>
 
-        <ImageView
-            android:id="@+id/hafal"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/hafal"
-            android:onClick="Pindah1"/>
+            <ImageView
+                android:id="@+id/latih1"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/latih1"
+                android:onClick="Pindah4"/>
 
-        <ImageView
-            android:id="@+id/gram"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/gram"/>
+            <ImageView
+                android:id="@+id/latih2"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/latih2"
+                android:onClick="Pindah5"/>
 
-        <ImageView
-            android:id="@+id/tens"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/tens"
-            android:onClick="Pindah3"/>
+            <ImageView
+                android:id="@+id/uji"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/uji"
+                android:onClick="Pindah6"/>
 
-        <ImageView
-            android:id="@+id/latih1"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/latih1"
-            android:onClick="Pindah4"/>
+            <ImageView
+                android:id="@+id/prckpn"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/prckpn"
+                android:onClick="Pindah7"/>
 
-        <ImageView
-            android:id="@+id/latih2"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/latih2"
-            android:onClick="Pindah5"/>
-
-        <ImageView
-            android:id="@+id/uji"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/uji"/>
-
-        <ImageView
-            android:id="@+id/prckpn"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/prckpn"
-            android:onClick="Pindah7"/>
-
-        <ImageView
-            android:id="@+id/game"
-            android:layout_width="330dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:adjustViewBounds="true"
-            android:scaleType="fitXY"
-            android:src="@drawable/game"/>
+            <ImageView
+                android:id="@+id/game"
+                android:layout_width="330dp"
+                android:layout_height="170dp"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/game"
+                android:onClick="Pindah8"/>
 
         </LinearLayout>
     </ScrollView>

@@ -136,8 +136,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         Intent intent = new Intent(MainActivity.this, Latihan2Layout.class);
         startActivity(intent);
     }
+    public void Pindah6(View view) {
+        Intent intent = new Intent(MainActivity.this, UjianLayout.class);
+        startActivity(intent);
+    }
     public void Pindah7(View view) {
         Intent intent = new Intent(MainActivity.this, PercakapanLayout.class);
+        startActivity(intent);
+    }
+    public void Pindah8(View view) {
+        Intent intent = new Intent(MainActivity.this, GameLoading.class);
         startActivity(intent);
     }
 }

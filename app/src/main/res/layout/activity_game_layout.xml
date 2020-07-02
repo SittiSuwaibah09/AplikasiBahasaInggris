@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GameLayout"
+    android:orientation="vertical"
+    android:background="@drawable/custom">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/silang"
+        android:layout_gravity="right"
+        android:layout_margin="10dp"
+        android:onClick="Tutup"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Belajar "
+            android:textColor="@color/orange"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bahasa "
+            android:textColor="@color/green"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Inggris"
+            android:textColor="@color/colorPrimary"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Bahasa Inggris Untuk Pemula"
+        android:textSize="12dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="dari tingkat dasar hingga mahir berbicara bahasa inggris"
+        android:textSize="12dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/play"
+        android:text="Play"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:onClick="Play"/>
+
+    <Button
+        android:id="@+id/petunjuk"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:background="@drawable/petunjuk"
+        android:text="Petunjuk"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:layout_width="165dp"
+        android:layout_height="50dp"
+        android:background="@drawable/kisi"
+        android:text="Kisi-Kisi"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:onClick="Kisi"/>
+
+    <Button
+        android:id="@+id/toko"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:background="@drawable/toko"
+        android:text="Toko"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"/>
+
+</LinearLayout>

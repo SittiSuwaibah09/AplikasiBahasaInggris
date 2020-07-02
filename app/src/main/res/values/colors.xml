@@ -7,4 +7,6 @@
     <color name="black">#000000</color>
     <color name="orange">#F45421</color>
     <color name="green">#37DD3D</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="merah">#FF1100</color>
 </resources>

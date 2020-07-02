@@ -4,8 +4,10 @@
 
     <application
         android:allowBackup="true"
+        android:hardwareAccelerated="false"
         android:icon="@drawable/icon"
         android:label="@string/app_name"
+        android:largeHeap="true"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
@@ -15,6 +17,25 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".KoleksiPiala"></activity>
+        <activity android:name=".GameActivity" />
+        <activity android:name=".KisiLayout" />
+        <activity android:name=".GameLayout" />
+        <activity android:name=".GameLoading" />
+        <activity android:name=".UjianActivity11" />
+        <activity android:name=".UjianActivity10" />
+        <activity android:name=".UjianActivity9" />
+        <activity android:name=".UjianActivity8" />
+        <activity android:name=".UjianActivity7" />
+        <activity android:name=".UjianActivity6" />
+        <activity android:name=".UjianActivity5" />
+        <activity android:name=".UjianActivity4" />
+        <activity android:name=".UjianActivity3" />
+        <activity android:name=".UjianActivity2" />
+        <activity android:name=".UjianActivity1" />
+        <activity android:name=".HasilUjian" />
+        <activity android:name=".UjianLayout" />
+        <activity android:name=".UjianActivity" />
         <activity
             android:name=".PercakapanWeather"
             android:label="Bahasa Inggris"
