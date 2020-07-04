@@ -14,6 +14,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.github.barteksc.pdfviewer.util.ArrayUtils;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -21,8 +22,12 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.LinkedHashSet;
 import java.util.Map;
+import java.util.Random;
+import java.util.Set;
 
 public class GameActivity extends AppCompatActivity {
 
@@ -64,8 +69,6 @@ public class GameActivity extends AppCompatActivity {
         myRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                final String[] character = {"A", "B", "C", "D", "E", "G", "H", "I", "K", "L", "M", "N", "O", "P", "R", "S", "T", "U"};
-                final int[] buttons = {R.id.tombol1, R.id.tombol2, R.id.tombol3, R.id.tombol4, R.id.tombol5, R.id.tombol6, R.id.tombol7, R.id.tombol8, R.id.tombol9, R.id.tombol10, R.id.tombol11, R.id.tombol12, R.id.tombol13, R.id.tombol14, R.id.tombol15, R.id.tombol16, R.id.tombol17, R.id.tombol18};
                 LinearLayout linearLayout = (LinearLayout) findViewById(R.id.jawab);
                 String tanya = dataSnapshot.child("pertanyaan").getValue().toString();
                 String tanya1 = dataSnapshot.child("pertanyaan1").getValue().toString();
@@ -77,9 +80,34 @@ public class GameActivity extends AppCompatActivity {
                 mAnswer = jawabb;
                 mPanjang = panjangjawab;
 
-                // errornya apa ?
-                // iya itu yang merah ko
-                // bentar tak cobak ko
+                Random randNum = new Random();
+                final int[] buttons = {R.id.tombol1, R.id.tombol2, R.id.tombol3, R.id.tombol4, R.id.tombol5, R.id.tombol6, R.id.tombol7, R.id.tombol8, R.id.tombol9, R.id.tombol10, R.id.tombol11, R.id.tombol12, R.id.tombol13, R.id.tombol14, R.id.tombol15, R.id.tombol16, R.id.tombol17, R.id.tombol18};
+                String[] character_trial = new String[18];
+
+                Set<Integer> setHuruf = new LinkedHashSet<Integer>();
+                while (setHuruf.size() < 18) {
+                    setHuruf.add(randNum.nextInt(26)+65);
+                }
+                int chr_i = 0;
+                for (int huruf: setHuruf)
+                {
+                    character_trial[chr_i++] = String.valueOf((char) huruf);
+                }
+
+                Set<Integer> setNumber = new LinkedHashSet<Integer>();
+                while (setNumber.size() < mAnswer.length()) {
+                    setNumber.add(randNum.nextInt(18));
+                }
+
+                int x = 0;
+                for (int posAns: setNumber){
+                    String chr = String.valueOf(mAnswer.charAt(x));
+                    x++;
+                    character_trial[posAns] = chr;
+                }
+
+                // Convert to final data character
+                final String[] character = character_trial;
 
                 final ArrayList list = new ArrayList();
                 for (int a = 0; a < mPanjang; a++) {
