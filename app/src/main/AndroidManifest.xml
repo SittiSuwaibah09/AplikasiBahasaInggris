@@ -17,7 +17,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".KoleksiPiala"></activity>
+        <activity android:name=".KoleksiPiala" />
         <activity android:name=".GameActivity" />
         <activity android:name=".KisiLayout" />
         <activity android:name=".GameLayout" />

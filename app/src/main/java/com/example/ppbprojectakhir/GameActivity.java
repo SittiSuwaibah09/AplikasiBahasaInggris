@@ -3,6 +3,7 @@ package com.example.ppbprojectakhir;
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.util.Log;
 import android.util.TypedValue;
 import android.view.View;
 import android.widget.Button;
@@ -10,9 +11,18 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
+
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 public class GameActivity extends AppCompatActivity {
 
@@ -20,7 +30,7 @@ public class GameActivity extends AppCompatActivity {
     private TextView mQuestionView;
     private TextView mQuestionView1;
     private TextView level;
-    private int mQuestionNumber = 1;
+    private int mQuestionNumber = 0;
     private String mAnswer;
     private int mScore = 0;
     private int r = 1;
@@ -29,6 +39,8 @@ public class GameActivity extends AppCompatActivity {
     private Button a;
     private static int q = 0;
     private String jawab = "";
+    FirebaseDatabase database;
+    DatabaseReference myRef;
 
     mySQLiteDB db = new mySQLiteDB(this);
 
@@ -47,24 +59,31 @@ public class GameActivity extends AppCompatActivity {
     }
 
     public void updateQuestion(){
-        Cursor cursor = db.viewData(Integer.toString(mQuestionNumber));
-        cursor.moveToFirst();
-        if (cursor.getCount() == 0) {
-            Toast.makeText(this, "No data to show", Toast.LENGTH_SHORT).show();
-        }
-        else {
+        myRef = FirebaseDatabase.getInstance().getReference().child("Games").child(String.valueOf(mQuestionNumber));
+
+        myRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 final String[] character = {"A", "B", "C", "D", "E", "G", "H", "I", "K", "L", "M", "N", "O", "P", "R", "S", "T", "U"};
                 final int[] buttons = {R.id.tombol1, R.id.tombol2, R.id.tombol3, R.id.tombol4, R.id.tombol5, R.id.tombol6, R.id.tombol7, R.id.tombol8, R.id.tombol9, R.id.tombol10, R.id.tombol11, R.id.tombol12, R.id.tombol13, R.id.tombol14, R.id.tombol15, R.id.tombol16, R.id.tombol17, R.id.tombol18};
                 LinearLayout linearLayout = (LinearLayout) findViewById(R.id.jawab);
+                String tanya = dataSnapshot.child("pertanyaan").getValue().toString();
+                String tanya1 = dataSnapshot.child("pertanyaan1").getValue().toString();
+                String jawabb = dataSnapshot.child("jawaban").getValue().toString();
+                int panjangjawab = Integer.parseInt(dataSnapshot.child("panjangjawaban").getValue().toString());
 
-                mQuestionView.setText(cursor.getString(1));
-                mQuestionView1.setText(cursor.getString(2));
-                mAnswer = cursor.getString(3);
-                mPanjang = cursor.getInt(4);
+                mQuestionView.setText(tanya);
+                mQuestionView1.setText(tanya1);
+                mAnswer = jawabb;
+                mPanjang = panjangjawab;
+
+                // errornya apa ?
+                // iya itu yang merah ko
+                // bentar tak cobak ko
 
                 final ArrayList list = new ArrayList();
                 for (int a = 0; a < mPanjang; a++) {
-                    button = new Button(this);
+                    button = new Button(GameActivity.this);
                     list.add(button);
                     int width = (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 30, getResources().getDisplayMetrics());
                     int height = (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 40, getResources().getDisplayMetrics());
@@ -110,7 +129,12 @@ public class GameActivity extends AppCompatActivity {
                     tombol.setVisibility(View.VISIBLE);
                 }
                 r++;
-        }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+            }
+        });
     }
     private void updateScore(int point) {
         mScoreView.setText("" + mScore);
